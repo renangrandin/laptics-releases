@@ -1,6 +1,6 @@
 {
-  "version": "0.1.6",
-  "download_url": "https://github.com/renangrandin/deltacoach-releases/releases/download/v0.1.6/DeltaCoachCapture.exe",
-  "updater_url": "https://github.com/renangrandin/deltacoach-releases/releases/download/v0.1.6/DeltaCoachUpdater.exe",
+  "version": "0.1.7",
+  "download_url": "https://github.com/renangrandin/deltacoach-releases/releases/download/v0.1.7/DeltaCoachCapture.exe",
+  "updater_url": "https://github.com/renangrandin/deltacoach-releases/releases/download/v0.1.7/DeltaCoachUpdater.exe",
   "notas": "Ícone correto no app, barra de título e bandeja do sistema."
 }
