@@ -1,5 +1,5 @@
 {
-  "version": "0.1.1",
-  "download_url": "https://github.com/renangrandin/deltacoach-releases/releases/download/v0.1.1/DeltaCoachCapture.exe",
-  "notas": "Sessão salva automaticamente — login apenas na primeira vez."
+  "version": "0.1.2",
+  "download_url": "https://github.com/renangrandin/deltacoach-releases/releases/download/v0.1.2/DeltaCoachCapture.exe",
+  "notas": "Correção: atualização automática reinicia o app corretamente."
 }
