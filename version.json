@@ -1,5 +1,6 @@
 {
-  "version": "0.1.4",
-  "download_url": "https://github.com/renangrandin/deltacoach-releases/releases/download/v0.1.4/DeltaCoachCapture.exe",
-  "notas": "Correção: atualização automática mais estável."
+  "version": "0.1.5",
+  "download_url": "https://github.com/renangrandin/deltacoach-releases/releases/download/v0.1.5/DeltaCoachCapture.exe",
+  "updater_url": "https://github.com/renangrandin/deltacoach-releases/releases/download/v0.1.5/DeltaCoachUpdater.exe",
+  "notas": "Sistema de atualização automática melhorado."
 }
