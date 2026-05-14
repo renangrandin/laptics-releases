@@ -1,6 +1,6 @@
 {
-  "version": "0.1.9",
-  "download_url": "https://github.com/renangrandin/deltacoach-releases/releases/download/v0.1.9/DeltaCoachCapture.exe",
-  "updater_url": "https://github.com/renangrandin/deltacoach-releases/releases/download/v0.1.9/DeltaCoachUpdater.exe",
-  "notas": "Captura 30hz, nome do jogo corrigido, setores da pista e dados para mapa do traçado."
+  "version": "0.1.10",
+  "download_url": "https://github.com/renangrandin/deltacoach-releases/releases/download/v0.1.10/DeltaCoachCapture.exe",
+  "updater_url": "https://github.com/renangrandin/deltacoach-releases/releases/download/v0.1.10/DeltaCoachUpdater.exe",
+  "notas": "GPS real na telemetria para mapa preciso + correção do badge Melhor Volta."
 }
