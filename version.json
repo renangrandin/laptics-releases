@@ -1,6 +1,6 @@
 {
-  "version": "v0.1.12",
-  "download_url": "https://github.com/renangrandin/deltacoach-releases/releases/download/v0.1.12/DeltaCoachCapture.exe",
-  "updater_url": "https://github.com/renangrandin/deltacoach-releases/releases/download/v0.1.12/DeltaCoachUpdater.exe",
-  "notas": "Telemetria agora com compressão."
+  "version": "v0.1.13",
+  "download_url": "https://github.com/renangrandin/deltacoach-releases/releases/download/v0.1.13/DeltaCoachCapture.exe",
+  "updater_url": "https://github.com/renangrandin/deltacoach-releases/releases/download/v0.1.13/DeltaCoachUpdater.exe",
+  "notas": "Captura de telemetria agora a 60Hz"
 }
