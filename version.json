@@ -1,6 +1,6 @@
 {
-  "version": "v0.1.13",
-  "download_url": "https://github.com/renangrandin/deltacoach-releases/releases/download/v0.1.13/DeltaCoachCapture.exe",
-  "updater_url": "https://github.com/renangrandin/deltacoach-releases/releases/download/v0.1.13/DeltaCoachUpdater.exe",
-  "notas": "Captura de telemetria agora a 60Hz"
+  "version": "v0.1.14",
+  "download_url": "https://github.com/renangrandin/deltacoach-releases/releases/download/v0.1.14/DeltaCoachCapture_v0.1.14.exe",
+  "updater_url": "https://github.com/renangrandin/deltacoach-releases/releases/download/v0.1.14/DeltaCoachUpdater_v0.1.14.exe",
+  "notas": "ABS real: percentual de corte de frenagem (BrakeABSCutPct >= 1% ativa overlay). Limpeza de canais 60Hz (apenas VertAccel). Sistema de lap_status (valid, out_lap, pit, incident, reset)."
 }
