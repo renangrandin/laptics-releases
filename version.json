@@ -1,6 +1,6 @@
 {
-  "version": "0.1.14",
-  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.14-laptics/LapticsCapture_v0.1.14.exe",
-  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.14-laptics/LapticsUpdater_v0.1.14.exe",
-  "notes": "Rebranding: DeltaCoach agora é Laptics! Mesmas funcionalidades, novo nome e ícone."
+  "version": "0.1.15",
+  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.15/LapticsCapture.exe",
+  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.15/LapticsUpdater.exe",
+  "notes": "Fila de upload persistente: telemetria salva localmente e apagada ap\u00f3s confirma\u00e7\u00e3o. Retry autom\u00e1tico a cada 5 min."
 }
