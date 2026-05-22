@@ -1,8 +1,8 @@
 {
-  "version": "0.1.16",
-  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.16/LapticsCapture_v0.1.16.exe",
-  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.16/LapticsCapture_v0.1.16.exe",
-  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.16/LapticsUpdater_v0.1.16.exe",
-  "notes": "UI translated to English. Fix: accented track names. Fix: correct car name in races. Fix: correct session type badge.",
-  "notas": "UI translated to English. Fix: accented track names. Fix: correct car name in races. Fix: correct session type badge."
+  "version": "0.1.17",
+  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.17/LapticsCapture_v0.1.17.exe",
+  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.17/LapticsCapture_v0.1.17.exe",
+  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.17/LapticsUpdater_v0.1.17.exe",
+  "notes": "Fix: only one instance can run at a time. New: uninstaller in Programs & Features. New: custom install directory.",
+  "notas": "Fix: apenas uma instância pode rodar por vez. Novo: desinstalador em Programas e Recursos. Novo: diretório de instalação customizável."
 }
