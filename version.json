@@ -1,6 +1,8 @@
 {
   "version": "0.1.16",
+  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.16/LapticsCapture_v0.1.16.exe",
   "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.16/LapticsCapture_v0.1.16.exe",
   "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.16/LapticsUpdater_v0.1.16.exe",
-  "notas": "UI translated to English. Fix: accented track names (encoding). Fix: correct car name in races (PlayerCarIdx). Fix: correct session type badge (SessionNum)."
+  "notes": "UI translated to English. Fix: accented track names. Fix: correct car name in races. Fix: correct session type badge.",
+  "notas": "UI translated to English. Fix: accented track names. Fix: correct car name in races. Fix: correct session type badge."
 }
