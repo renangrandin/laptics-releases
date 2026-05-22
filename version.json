@@ -1,6 +1,6 @@
 {
-  "version": "0.1.15",
-  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.15/LapticsCapture.exe",
-  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.15/LapticsUpdater.exe",
-  "notes": "Fila de upload persistente: telemetria salva localmente e apagada ap\u00f3s confirma\u00e7\u00e3o. Retry autom\u00e1tico a cada 5 min."
+  "version": "0.1.16",
+  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.16/LapticsCapture_v0.1.16.exe",
+  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.16/LapticsUpdater_v0.1.16.exe",
+  "notas": "UI translated to English. Fix: accented track names (encoding). Fix: correct car name in races (PlayerCarIdx). Fix: correct session type badge (SessionNum)."
 }
