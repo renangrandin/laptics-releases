@@ -1,8 +1,8 @@
 {
-  "version": "0.1.19",
-  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.19/LapticsCapture_v0.1.19.exe",
-  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.19/LapticsCapture_v0.1.19.exe",
-  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.19/LapticsUpdater_v0.1.19.exe",
-  "notes": "Fix: circuit name and car name showing as Unknown — iRacing YAML partially loaded on connect; now waits for all required keys before reading session info.",
-  "notas": "Fix: nome do circuito e carro aparecendo como Unknown — YAML do iRacing carregava parcialmente ao conectar; agora aguarda todas as chaves necessárias antes de ler as informações da sessão."
+  "version": "0.1.20",
+  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.20/LapticsCapture_v0.1.20.exe",
+  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.20/LapticsCapture_v0.1.20.exe",
+  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.20/LapticsUpdater_v0.1.20.exe",
+  "notes": "Improved logs: track, location, car, session type, speed, telemetry and upload status shown clearly after each lap.",
+  "notas": "Logs melhorados: pista, localização, carro, tipo de sessão, velocidade, telemetria e status de upload exibidos claramente após cada volta."
 }
