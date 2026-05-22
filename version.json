@@ -1,8 +1,8 @@
 {
-  "version": "0.1.17",
-  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.17/LapticsCapture_v0.1.17.exe",
-  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.17/LapticsCapture_v0.1.17.exe",
-  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.17/LapticsUpdater_v0.1.17.exe",
-  "notes": "Fix: only one instance can run at a time. New: uninstaller in Programs & Features. New: custom install directory.",
-  "notas": "Fix: apenas uma instância pode rodar por vez. Novo: desinstalador em Programas e Recursos. Novo: diretório de instalação customizável."
+  "version": "0.1.18",
+  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.18/LapticsCapture_v0.1.18.exe",
+  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.18/LapticsCapture_v0.1.18.exe",
+  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.18/LapticsUpdater_v0.1.18.exe",
+  "notes": "Fix: telemetry upload failing silently since v0.1.16. Fix: circuit name and car name showing as Unknown. Fix: qualifying/race incorrectly logged as practice. New: session keepalive prevents auth expiry on long-running instances.",
+  "notas": "Fix: upload de telemetria falhando silenciosamente desde v0.1.16. Fix: nome do circuito e carro aparecendo como Unknown. Fix: qualifying e race sendo registrados como practice. Novo: keepalive de sessão evita expiração de auth em instâncias longas."
 }
