@@ -1,8 +1,8 @@
 {
-  "version": "0.1.21",
-  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.21/LapticsCapture_v0.1.21.exe",
-  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.21/LapticsCapture_v0.1.21.exe",
-  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.21/LapticsUpdater_v0.1.21.exe",
-  "notes": "Fix: track and car no longer show as Unknown — session info now loads in background and updates automatically if iRacing takes longer to populate data.",
-  "notas": "Fix: pista e carro não aparecem mais como Unknown — informações da sessão carregam em background e atualizam automaticamente se o iRacing demorar para disponibilizar os dados."
+  "version": "0.1.22",
+  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.22/LapticsCapture_v0.1.22.exe",
+  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.22/LapticsCapture_v0.1.22.exe",
+  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.22/LapticsUpdater_v0.1.22.exe",
+  "notes": "Fix: track and car info now loads correctly even when iRacing does not provide PlayerCarIdx — falls back to first driver entry automatically.",
+  "notas": "Fix: nome da pista e do carro carregam corretamente mesmo quando o iRacing não fornece PlayerCarIdx — usa o primeiro piloto da lista como fallback automático."
 }
