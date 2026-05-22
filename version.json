@@ -1,8 +1,8 @@
 {
-  "version": "0.1.18",
-  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.18/LapticsCapture_v0.1.18.exe",
-  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.18/LapticsCapture_v0.1.18.exe",
-  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.18/LapticsUpdater_v0.1.18.exe",
-  "notes": "Fix: telemetry upload failing silently since v0.1.16. Fix: circuit name and car name showing as Unknown. Fix: qualifying/race incorrectly logged as practice. New: session keepalive prevents auth expiry on long-running instances.",
-  "notas": "Fix: upload de telemetria falhando silenciosamente desde v0.1.16. Fix: nome do circuito e carro aparecendo como Unknown. Fix: qualifying e race sendo registrados como practice. Novo: keepalive de sessão evita expiração de auth em instâncias longas."
+  "version": "0.1.19",
+  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.19/LapticsCapture_v0.1.19.exe",
+  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.19/LapticsCapture_v0.1.19.exe",
+  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.19/LapticsUpdater_v0.1.19.exe",
+  "notes": "Fix: circuit name and car name showing as Unknown — iRacing YAML partially loaded on connect; now waits for all required keys before reading session info.",
+  "notas": "Fix: nome do circuito e carro aparecendo como Unknown — YAML do iRacing carregava parcialmente ao conectar; agora aguarda todas as chaves necessárias antes de ler as informações da sessão."
 }
