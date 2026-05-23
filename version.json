@@ -1,8 +1,8 @@
 {
-  "version": "0.1.23",
-  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.23/LapticsCapture_v0.1.23.exe",
-  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.23/LapticsCapture_v0.1.23.exe",
-  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.23/LapticsUpdater_v0.1.23.exe",
-  "notes": "Telemetry upgraded: LongAccel added at 60Hz for kerb+braking analysis; GPS at 15Hz; fuel and tire temps at 1Hz (smaller files). ABS activation fixed. Track stored as slug. JWT auto-refresh.",
-  "notas": "Telemetria melhorada: LongAccel adicionado a 60Hz para análise de zebra+frenagem; GPS a 15Hz; combustível e temps de pneu a 1Hz (arquivos menores). ABS corrigido. Pista salva como slug. JWT com renovação automática."
+  "version": "0.1.24",
+  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.24/LapticsCapture_v0.1.24.exe",
+  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.24/LapticsCapture_v0.1.24.exe",
+  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.24/LapticsUpdater_v0.1.24.exe",
+  "notes": "Sub-session detection: Practice, Qualifying and Race now create separate sessions. Session status tracking: completed, disconnected, disqualified, DNF, abandoned.",
+  "notas": "Detecção de sub-sessão: Treino, Qualy e Corrida agora criam sessões separadas. Status da sessão: completa, desconexão, DQ, DNF, abandonada."
 }
