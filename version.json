@@ -1,8 +1,8 @@
 {
-  "version": "0.1.24",
-  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.24/LapticsCapture_v0.1.24.exe",
-  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.24/LapticsCapture_v0.1.24.exe",
-  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.24/LapticsUpdater_v0.1.24.exe",
-  "notes": "Sub-session detection: Practice, Qualifying and Race now create separate sessions. Session status tracking: completed, disconnected, disqualified, DNF, abandoned.",
-  "notas": "Detecção de sub-sessão: Treino, Qualy e Corrida agora criam sessões separadas. Status da sessão: completa, desconexão, DQ, DNF, abandonada."
+  "version": "0.1.25",
+  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.25/LapticsCapture_v0.1.25.exe",
+  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.25/LapticsCapture_v0.1.25.exe",
+  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.25/LapticsUpdater_v0.1.25.exe",
+  "notes": "Remember my credentials: auto sign-in when session expires (Windows Credential Manager). Driver name now shows full name instead of email.",
+  "notas": "Lembrar credenciais: login automático quando a sessão expira (Windows Credential Manager). Nome do piloto agora exibe o nome completo em vez do e-mail."
 }
