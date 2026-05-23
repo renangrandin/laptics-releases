@@ -1,8 +1,8 @@
 {
-  "version": "0.1.22",
-  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.22/LapticsCapture_v0.1.22.exe",
-  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.22/LapticsCapture_v0.1.22.exe",
-  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.22/LapticsUpdater_v0.1.22.exe",
-  "notes": "Fix: track and car info now loads correctly even when iRacing does not provide PlayerCarIdx — falls back to first driver entry automatically.",
-  "notas": "Fix: nome da pista e do carro carregam corretamente mesmo quando o iRacing não fornece PlayerCarIdx — usa o primeiro piloto da lista como fallback automático."
+  "version": "0.1.23",
+  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.23/LapticsCapture_v0.1.23.exe",
+  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.23/LapticsCapture_v0.1.23.exe",
+  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.23/LapticsUpdater_v0.1.23.exe",
+  "notes": "Telemetry upgraded: LongAccel added at 60Hz for kerb+braking analysis; GPS at 15Hz; fuel and tire temps at 1Hz (smaller files). ABS activation fixed. Track stored as slug. JWT auto-refresh.",
+  "notas": "Telemetria melhorada: LongAccel adicionado a 60Hz para análise de zebra+frenagem; GPS a 15Hz; combustível e temps de pneu a 1Hz (arquivos menores). ABS corrigido. Pista salva como slug. JWT com renovação automática."
 }
