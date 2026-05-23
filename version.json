@@ -1,8 +1,8 @@
 {
-  "version": "0.1.25",
-  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.25/LapticsCapture_v0.1.25.exe",
-  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.25/LapticsCapture_v0.1.25.exe",
-  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.25/LapticsUpdater_v0.1.25.exe",
-  "notes": "Remember my credentials: auto sign-in when session expires (Windows Credential Manager). Driver name now shows full name instead of email.",
-  "notas": "Lembrar credenciais: login automático quando a sessão expira (Windows Credential Manager). Nome do piloto agora exibe o nome completo em vez do e-mail."
+  "version": "0.1.26",
+  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.26/LapticsCapture_v0.1.26.exe",
+  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.26/LapticsCapture_v0.1.26.exe",
+  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.26/LapticsUpdater_v0.1.26.exe",
+  "notes": "Session resume after crash: reconnecting to a race/qualifying after a disconnect now resumes the same session instead of creating a duplicate. Uses iRacing SubSessionID for dedup.",
+  "notas": "Retomada de sessão após crash: reconectar a uma corrida ou qualy após desconexão agora retoma a mesma sessão em vez de criar uma duplicada. Usa o SubSessionID do iRacing para deduplicação."
 }
