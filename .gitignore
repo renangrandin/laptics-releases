@@ -1,0 +1,4 @@
+﻿# Executáveis versionados — distribuídos via GitHub Releases, não no repo
+*.exe
+!LapticsSetup.exe
+
