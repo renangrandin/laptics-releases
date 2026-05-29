@@ -1,8 +1,8 @@
 {
-  "version": "0.1.28",
-  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.28/LapticsCapture_v0.1.28.exe",
-  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.28/LapticsCapture_v0.1.28.exe",
-  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.28/LapticsUpdater_v0.1.28.exe",
-  "notes": "Last lap fix: the final lap of a qualifying or practice session is no longer silently dropped when iRacing transitions to the next sub-session (e.g. quali → race). Also includes the invalid lap fix from v0.1.27.",
-  "notas": "Correção da última volta: a volta final de uma sessão de qualy ou treino não é mais descartada silenciosamente quando o iRacing transita para a próxima sub-sessão (ex: qualy → corrida). Inclui também a correção de volta inválida do v0.1.27."
+  "version": "0.1.29",
+  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.29/LapticsCapture_v0.1.29.exe",
+  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.29/LapticsCapture_v0.1.29.exe",
+  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.29/LapticsUpdater_v0.1.29.exe",
+  "notes": "Fix: first frame of new lap no longer contaminates the previous lap's telemetry buffer (flip check now runs before frame capture). Fix: detects and logs mid-lap telemetry gaps caused by iRacing SDK reconnection.",
+  "notas": "Fix: primeiro frame da nova volta não contamina mais o buffer da volta anterior (flip check agora ocorre antes da captura). Fix: detecta e registra lacunas de telemetria no meio da volta causadas por reconexão do iRacing SDK."
 }
