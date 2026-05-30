@@ -1,8 +1,8 @@
 {
-  "version": "0.1.29",
-  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.29/LapticsCapture_v0.1.29.exe",
-  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.29/LapticsCapture_v0.1.29.exe",
-  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.29/LapticsUpdater_v0.1.29.exe",
-  "notes": "Fix: first frame of new lap no longer contaminates the previous lap's telemetry buffer (flip check now runs before frame capture). Fix: detects and logs mid-lap telemetry gaps caused by iRacing SDK reconnection.",
-  "notas": "Fix: primeiro frame da nova volta não contamina mais o buffer da volta anterior (flip check agora ocorre antes da captura). Fix: detecta e registra lacunas de telemetria no meio da volta causadas por reconexão do iRacing SDK."
+  "version": "0.1.30",
+  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.30/LapticsCapture_v0.1.30.exe",
+  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.30/LapticsCapture_v0.1.30.exe",
+  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.30/LapticsUpdater_v0.1.30.exe",
+  "notes": "Fix: secondary lap-flip detection via LapDistPct prevents two laps from being stored in the same telemetry buffer when iRacing delays the Lap counter increment (common with penalty laps). Fix: single-instance guard prevents multiple Capture windows from opening.",
+  "notas": "Fix: detecção secundária de virada de volta via LapDistPct evita que duas voltas sejam gravadas no mesmo buffer de telemetria quando o iRacing atrasa o incremento do contador Lap (comum em voltas penalizadas). Fix: guard de instância única evita múltiplas janelas do Capture."
 }
