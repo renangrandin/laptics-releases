@@ -1,8 +1,8 @@
 {
-  "version": "0.1.30",
-  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.30/LapticsCapture_v0.1.30.exe",
-  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.30/LapticsCapture_v0.1.30.exe",
-  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.30/LapticsUpdater_v0.1.30.exe",
-  "notes": "Fix: secondary lap-flip detection via LapDistPct prevents two laps from being stored in the same telemetry buffer when iRacing delays the Lap counter increment (common with penalty laps). Fix: single-instance guard prevents multiple Capture windows from opening.",
-  "notas": "Fix: detecção secundária de virada de volta via LapDistPct evita que duas voltas sejam gravadas no mesmo buffer de telemetria quando o iRacing atrasa o incremento do contador Lap (comum em voltas penalizadas). Fix: guard de instância única evita múltiplas janelas do Capture."
+  "version": "0.1.31",
+  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.31/LapticsCapture_v0.1.31.exe",
+  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.31/LapticsCapture_v0.1.31.exe",
+  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.31/LapticsUpdater_v0.1.31.exe",
+  "notes": "Fix: short invalid laps from Active Reset no longer upload telemetry to R2 when LapLastLapTime is a stale value from a prior penalized lap. This significantly reduces storage consumption in sessions with many resets.",
+  "notas": "Fix: voltas invalidas curtas de Active Reset nao sobem mais telemetria ao R2 quando LapLastLapTime e valor residual de volta penalizada anterior. Reduz significativamente o consumo de armazenamento em sessoes com muitos resets."
 }
