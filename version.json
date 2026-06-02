@@ -1,8 +1,8 @@
 {
-  "version": "0.1.31",
-  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.31/LapticsCapture_v0.1.31.exe",
-  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.31/LapticsCapture_v0.1.31.exe",
-  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.31/LapticsUpdater_v0.1.31.exe",
-  "notes": "Fix: short invalid laps from Active Reset no longer upload telemetry to R2 when LapLastLapTime is a stale value from a prior penalized lap. This significantly reduces storage consumption in sessions with many resets.",
-  "notas": "Fix: voltas invalidas curtas de Active Reset nao sobem mais telemetria ao R2 quando LapLastLapTime e valor residual de volta penalizada anterior. Reduz significativamente o consumo de armazenamento em sessoes com muitos resets."
+  "version": "0.1.32",
+  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.32/LapticsCapture_v0.1.32.exe",
+  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.32/LapticsCapture_v0.1.32.exe",
+  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.32/LapticsUpdater_v0.1.32.exe",
+  "notes": "New: Assetto Corsa Competizione (ACC) support. Fix: ABS false positives during oversteer corrected for AC and ACC.",
+  "notas": "Novo: suporte ao Assetto Corsa Competizione (ACC). Fix: falsos positivos de ABS durante oversteer corrigidos no AC e ACC."
 }
