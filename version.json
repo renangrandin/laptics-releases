@@ -1,8 +1,8 @@
 {
-  "version": "0.1.34",
-  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.34/LapticsCapture_v0.1.34.exe",
-  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.34/LapticsCapture_v0.1.34.exe",
-  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.34/LapticsUpdater_v0.1.34.exe",
-  "notes": "New: Capture now records the iRacing numeric track ID (WeekendInfo.TrackID) and the track display name. The numeric ID maps directly to the official track map, making track matching more reliable than the text slug.",
-  "notas": "Novo: o Capture agora grava o ID numérico da pista do iRacing (WeekendInfo.TrackID) e o nome de exibição da pista. O ID numérico casa direto com o mapa oficial da pista, deixando o reconhecimento mais confiável do que pelo slug de texto."
+  "version": "0.1.35",
+  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.35/LapticsCapture_v0.1.35.exe",
+  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.35/LapticsCapture_v0.1.35.exe",
+  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.35/LapticsUpdater_v0.1.35.exe",
+  "notes": "Fix: teleport handling for Assetto Corsa / ACC (back to pits, practice restarts). Aborted attempts are now discarded from the telemetry buffer and partial post-teleport runs are no longer recorded as timed laps — keeping track maps and charts clean.",
+  "notas": "Fix: tratamento de teleporte no Assetto Corsa / ACC (back to pits, restart de treino). Tentativas abortadas agora são descartadas do buffer de telemetria e o trecho parcial pós-teleporte não vira mais volta cronometrada — mantendo mapas de pista e gráficos limpos."
 }
