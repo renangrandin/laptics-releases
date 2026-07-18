@@ -1,8 +1,8 @@
 {
-  "version": "0.1.35",
-  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.35/LapticsCapture_v0.1.35.exe",
-  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.35/LapticsCapture_v0.1.35.exe",
-  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.35/LapticsUpdater_v0.1.35.exe",
-  "notes": "Fix: teleport handling for Assetto Corsa / ACC (back to pits, practice restarts). Aborted attempts are now discarded from the telemetry buffer and partial post-teleport runs are no longer recorded as timed laps — keeping track maps and charts clean.",
-  "notas": "Fix: tratamento de teleporte no Assetto Corsa / ACC (back to pits, restart de treino). Tentativas abortadas agora são descartadas do buffer de telemetria e o trecho parcial pós-teleporte não vira mais volta cronometrada — mantendo mapas de pista e gráficos limpos."
+  "version": "0.1.36",
+  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.36/LapticsCapture_v0.1.36.exe",
+  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.36/LapticsCapture_v0.1.36.exe",
+  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.36/LapticsUpdater_v0.1.36.exe",
+  "notes": "New: sessions now get a more precise type — practice, qualifying, race, warmup, hotlap or test — across iRacing, AC and ACC. The raw sim session is kept for analysis, and an unknown session no longer defaults to practice.",
+  "notas": "Novo: as sessões agora recebem um tipo mais preciso — treino, classificação, corrida, aquecimento, hotlap ou teste — no iRacing, AC e ACC. O tipo bruto do sim é preservado para análise, e uma sessão desconhecida não vira mais treino por padrão."
 }
