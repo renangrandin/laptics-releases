@@ -1,8 +1,8 @@
 {
-  "version": "0.1.40",
-  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.40/LapticsCapture_v0.1.40.exe",
-  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.40/LapticsCapture_v0.1.40.exe",
-  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.40/LapticsUpdater_v0.1.40.exe",
-  "notes": "iRacing: the out-lap (lap 1) now keeps its real time, shown like in the sim — it still never counts as your best. Its telemetry is saved too.",
-  "notas": "iRacing: a out-lap (volta 1) agora mantém o tempo real, como no sim — continua sem contar como sua melhor. A telemetria dela também é salva."
+  "version": "0.1.41",
+  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.41/LapticsCapture_v0.1.41.exe",
+  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.41/LapticsCapture_v0.1.41.exe",
+  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.41/LapticsUpdater_v0.1.41.exe",
+  "notes": "Capture now recovers its login by itself: if you sign out on the website or your session gets revoked, it refreshes — or signs back in with your saved credentials (Remember my credentials) — and keeps uploading. Laps are always kept safe on disk until the upload is confirmed.",
+  "notas": "O Capture agora recupera o login sozinho: se você deslogar no site ou a sessão for revogada, ele renova — ou reloga com as credenciais salvas (Remember my credentials) — e continua subindo as voltas. As voltas ficam guardadas no disco até o upload ser confirmado."
 }
