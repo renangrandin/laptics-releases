@@ -1,8 +1,8 @@
 {
-  "version": "0.1.41",
-  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.41/LapticsCapture_v0.1.41.exe",
-  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.41/LapticsCapture_v0.1.41.exe",
-  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.41/LapticsUpdater_v0.1.41.exe",
-  "notes": "Capture now recovers its login by itself: if you sign out on the website or your session gets revoked, it refreshes — or signs back in with your saved credentials (Remember my credentials) — and keeps uploading. Laps are always kept safe on disk until the upload is confirmed.",
-  "notas": "O Capture agora recupera o login sozinho: se você deslogar no site ou a sessão for revogada, ele renova — ou reloga com as credenciais salvas (Remember my credentials) — e continua subindo as voltas. As voltas ficam guardadas no disco até o upload ser confirmado."
+  "version": "0.1.42",
+  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.42/LapticsCapture_v0.1.42.exe",
+  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.42/LapticsCapture_v0.1.42.exe",
+  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.42/LapticsUpdater_v0.1.42.exe",
+  "notes": "Fixes duplicated lap 1: the pit-out stretch could be registered as a timeless copy of your first lap (seen when iRacing keeps the lap counter at 1 in the garage). Recovered uploads now also enrich that placeholder instead of creating a twin lap.",
+  "notas": "Corrige a volta 1 duplicada: o trecho de saída dos boxes podia ser registrado como uma cópia sem tempo da sua primeira volta (quando o iRacing mantém o contador em 1 na garagem). Uploads recuperados agora enriquecem esse placeholder em vez de criar uma volta gêmea."
 }
