@@ -1,8 +1,8 @@
 {
-  "version": "0.1.39",
-  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.39/LapticsCapture_v0.1.39.exe",
-  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.39/LapticsCapture_v0.1.39.exe",
-  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.39/LapticsUpdater_v0.1.39.exe",
-  "notes": "iRacing: lap times now match the sim's official timing to the millisecond — the capture waits for iRacing to publish the official lap time (previously times were derived from telemetry, within ~15ms).",
-  "notas": "iRacing: os tempos de volta agora batem com o cronômetro oficial do sim ao milissegundo — o capture espera o iRacing publicar o tempo oficial da volta (antes o tempo era derivado da telemetria, com ~15ms de margem)."
+  "version": "0.1.40",
+  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.40/LapticsCapture_v0.1.40.exe",
+  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.40/LapticsCapture_v0.1.40.exe",
+  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.40/LapticsUpdater_v0.1.40.exe",
+  "notes": "iRacing: the out-lap (lap 1) now keeps its real time, shown like in the sim — it still never counts as your best. Its telemetry is saved too.",
+  "notas": "iRacing: a out-lap (volta 1) agora mantém o tempo real, como no sim — continua sem contar como sua melhor. A telemetria dela também é salva."
 }
