@@ -1,8 +1,8 @@
 {
-  "version": "0.1.37",
-  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.37/LapticsCapture_v0.1.37.exe",
-  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.37/LapticsCapture_v0.1.37.exe",
-  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.37/LapticsUpdater_v0.1.37.exe",
-  "notes": "Fix: the opening of each lap (the start/finish straight and the first braking zone) is now captured correctly. Telemetry no longer shows a wrong flat segment at the start of a lap — brake high while speed stays frozen — nor a bad line through Turn 1.",
-  "notas": "Correção: a abertura de cada volta (a reta de largada e a primeira freada) agora é capturada corretamente. A telemetria não mostra mais um trecho chapado errado no início da volta — freio alto com a velocidade travada — nem traçado errado na Curva 1."
+  "version": "0.1.38",
+  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.38/LapticsCapture_v0.1.38.exe",
+  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.38/LapticsCapture_v0.1.38.exe",
+  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.1.38/LapticsUpdater_v0.1.38.exe",
+  "notes": "iRacing: (1) lap times are now correct — each lap was being saved with the previous lap's time, so the last (often the best) lap of a run lost its time; (2) laps where the car went off the track surface are marked 'Off-Track' — the real time is kept but doesn't count as your best.",
+  "notas": "iRacing: (1) os tempos de volta agora saem certos — cada volta estava sendo salva com o tempo da volta anterior, e a última (muitas vezes a melhor) volta do stint perdia o tempo; (2) voltas em que o carro saiu da pista agora aparecem como 'Off-Track' — o tempo real é mantido, mas não conta como sua melhor."
 }
