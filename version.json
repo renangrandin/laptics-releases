@@ -1,8 +1,8 @@
 {
-  "version": "0.2.1",
-  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.2.1/LapticsCapture_v0.2.1.exe",
-  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.2.1/LapticsCapture_v0.2.1.exe",
-  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.2.1/LapticsUpdater_v0.2.1.exe",
-  "notes": "Fixes the update dialog so the Install button stays visible, even with long release notes.",
-  "notas": "Corrige o dialogo de update: o botao Install agora fica sempre visivel, mesmo com notas longas."
+  "version": "0.2.2",
+  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.2.2/LapticsCapture_v0.2.2.exe",
+  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.2.2/LapticsCapture_v0.2.2.exe",
+  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.2.2/LapticsUpdater_v0.2.2.exe",
+  "notes": "Now records whether the session was fixed or open setup, plus the loaded setup name.",
+  "notas": "Agora registra se a sessao era fixed ou open setup, e o nome do setup carregado."
 }
