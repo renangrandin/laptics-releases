@@ -3,6 +3,6 @@
   "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.2.0/LapticsCapture_v0.2.0.exe",
   "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.2.0/LapticsCapture_v0.2.0.exe",
   "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.2.0/LapticsUpdater_v0.2.0.exe",
-  "notes": "Major telemetry expansion (~19 to ~95 SDK channels): suspension & attitude, raw inputs & FFB torque, tire wear (3 points) and temps, per-wheel brake pressure, FFB clipping, native lap deltas, plus weather and CarSetup per stint and rig (wheel/pedals) detection. RPM now at 30Hz and the long-accel (al to gy) fix. Additive: older laps are unaffected.",
-  "notas": "Grande expansao de telemetria (~19 para ~95 canais do SDK): suspensao e atitude, inputs crus e torque de FFB, desgaste de pneu (3 pontos) e temperaturas, pressao de freio por roda, clipping de FFB, deltas nativos de volta, alem de clima e CarSetup por stint e deteccao do rig (volante/pedais). RPM agora a 30Hz e o fix da aceleracao longitudinal (al para gy). Aditivo: voltas antigas ficam intactas."
+  "notes": "Big telemetry upgrade: ~95 iRacing SDK channels — suspension, FFB & clipping, tire wear, per-wheel brake pressure, weather & CarSetup per stint, and rig detection. Additive: older laps are unaffected.",
+  "notas": "Grande upgrade de telemetria: ~95 canais do SDK do iRacing — suspensao, FFB e clipping, desgaste de pneu, pressao de freio por roda, clima e CarSetup por stint, e deteccao de rig. Aditivo: voltas antigas ficam intactas."
 }
