@@ -1,9 +1,9 @@
 {
-  "version": "0.2.7",
-  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.2.7/LapticsCapture_v0.2.7.exe",
-  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.2.7/LapticsCapture_v0.2.7.exe",
-  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.2.7/LapticsUpdater_v0.2.7.exe",
-  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.2.7/LapticsApply_v0.2.7.exe",
-  "notes": "The app now checks for updates more often, so new versions install sooner on a rig that stays open.",
-  "notas": "O app passa a checar atualizacoes com mais frequencia, entao novas versoes se instalam mais cedo num rig que fica aberto."
+  "version": "0.2.8",
+  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.2.8/LapticsCapture_v0.2.8.exe",
+  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.2.8/LapticsCapture_v0.2.8.exe",
+  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.2.8/LapticsUpdater_v0.2.8.exe",
+  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.2.8/LapticsApply_v0.2.8.exe",
+  "notes": "Housekeeping: the app now clears leftover files from previous updates on startup.",
+  "notas": "Limpeza: o app agora remove na inicializacao os arquivos que sobravam de updates anteriores."
 }
