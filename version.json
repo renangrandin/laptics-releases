@@ -1,8 +1,9 @@
 {
-  "version": "0.2.5",
-  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.2.5/LapticsCapture_v0.2.5.exe",
-  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.2.5/LapticsCapture_v0.2.5.exe",
-  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.2.5/LapticsUpdater_v0.2.5.exe",
-  "notes": "Offline sessions (practice/test) now record their setup as Open, so the Fixed/Open tag shows up across your sessions and the community.",
-  "notas": "Sessoes offline (treino/teste) agora gravam o setup como Aberto, entao a etiqueta Fixo/Aberto aparece nas suas sessoes e na comunidade."
+  "version": "0.2.6",
+  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.2.6/LapticsCapture_v0.2.6.exe",
+  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.2.6/LapticsCapture_v0.2.6.exe",
+  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.2.6/LapticsUpdater_v0.2.6.exe",
+  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.2.6/LapticsApply_v0.2.6.exe",
+  "notes": "Updates now install silently in the background when iRacing is closed, so there is no more Install now pop-up. Sessions also record which Capture version recorded them.",
+  "notas": "As atualizacoes agora se instalam em segundo plano quando o iRacing esta fechado, entao acabou o pop-up Install now. As sessoes tambem passam a registrar com qual versao do Capture foram gravadas."
 }
