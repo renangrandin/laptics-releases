@@ -1,8 +1,8 @@
 {
-  "version": "0.2.3",
-  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.2.3/LapticsCapture_v0.2.3.exe",
-  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.2.3/LapticsCapture_v0.2.3.exe",
-  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.2.3/LapticsUpdater_v0.2.3.exe",
-  "notes": "Fixes sim rig detection: your wheel base and pedals now show their brand and model (they were being reported as unknown).",
-  "notas": "Corrige a deteccao do equipamento: base e pedais agora aparecem com marca e modelo (antes vinham como desconhecidos)."
+  "version": "0.2.4",
+  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.2.4/LapticsCapture_v0.2.4.exe",
+  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.2.4/LapticsCapture_v0.2.4.exe",
+  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.2.4/LapticsUpdater_v0.2.4.exe",
+  "notes": "The Equipment card now shows your detected wheel base and pedals, and the Correct dialog lets you pick from a list or type your gear.",
+  "notas": "O card Equipment agora mostra a base e os pedais detectados, e o botao Correct deixa voce escolher da lista ou digitar o equipamento."
 }
