@@ -1,8 +1,8 @@
 {
-  "version": "0.2.4",
-  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.2.4/LapticsCapture_v0.2.4.exe",
-  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.2.4/LapticsCapture_v0.2.4.exe",
-  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.2.4/LapticsUpdater_v0.2.4.exe",
-  "notes": "The Equipment card now shows your detected wheel base and pedals, and the Correct dialog lets you pick from a list or type your gear.",
-  "notas": "O card Equipment agora mostra a base e os pedais detectados, e o botao Correct deixa voce escolher da lista ou digitar o equipamento."
+  "version": "0.2.5",
+  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.2.5/LapticsCapture_v0.2.5.exe",
+  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.2.5/LapticsCapture_v0.2.5.exe",
+  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.2.5/LapticsUpdater_v0.2.5.exe",
+  "notes": "Offline sessions (practice/test) now record their setup as Open, so the Fixed/Open tag shows up across your sessions and the community.",
+  "notas": "Sessoes offline (treino/teste) agora gravam o setup como Aberto, entao a etiqueta Fixo/Aberto aparece nas suas sessoes e na comunidade."
 }
