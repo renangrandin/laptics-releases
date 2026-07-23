@@ -1,9 +1,9 @@
 {
-  "version": "0.2.11",
-  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.2.11/LapticsCapture_v0.2.11.exe",
-  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.2.11/LapticsCapture_v0.2.11.exe",
-  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.2.11/LapticsUpdater_v0.2.11.exe",
-  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.2.11/LapticsApply_v0.2.11.exe",
-  "notes": "Going to the garage during an offline test no longer starts a new session.",
-  "notas": "Ir para a garagem num teste offline nao comeca mais uma sessao nova."
+  "version": "0.2.12",
+  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.2.12/LapticsCapture_v0.2.12.exe",
+  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.2.12/LapticsCapture_v0.2.12.exe",
+  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.2.12/LapticsUpdater_v0.2.12.exe",
+  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.2.12/LapticsApply_v0.2.12.exe",
+  "notes": "Recognize the Logitech G923 (Xbox/PC) wheel and Trak Racer TR Pro Pedals in equipment detection.",
+  "notas": "Reconhece o volante Logitech G923 (Xbox/PC) e as pedaleiras Trak Racer TR Pro na deteccao de equipamento."
 }
