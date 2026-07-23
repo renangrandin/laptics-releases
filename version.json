@@ -1,9 +1,9 @@
 {
-  "version": "0.2.9",
-  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.2.9/LapticsCapture_v0.2.9.exe",
-  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.2.9/LapticsCapture_v0.2.9.exe",
-  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.2.9/LapticsUpdater_v0.2.9.exe",
-  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.2.9/LapticsApply_v0.2.9.exe",
-  "notes": "A brief iRacing hiccup no longer splits your run into several sessions - it now resumes the same session.",
-  "notas": "Um tranco rapido do iRacing nao quebra mais o seu stint em varias sessoes - agora ele retoma a mesma sessao."
+  "version": "0.2.10",
+  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.2.10/LapticsCapture_v0.2.10.exe",
+  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.2.10/LapticsCapture_v0.2.10.exe",
+  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.2.10/LapticsUpdater_v0.2.10.exe",
+  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.2.10/LapticsApply_v0.2.10.exe",
+  "notes": "Going to the garage during an offline test no longer splits your run into several sessions.",
+  "notas": "Ir para a garagem num teste offline nao quebra mais o seu stint em varias sessoes."
 }
