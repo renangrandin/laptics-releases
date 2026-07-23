@@ -1,9 +1,9 @@
 {
-  "version": "0.2.10",
-  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.2.10/LapticsCapture_v0.2.10.exe",
-  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.2.10/LapticsCapture_v0.2.10.exe",
-  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.2.10/LapticsUpdater_v0.2.10.exe",
-  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.2.10/LapticsApply_v0.2.10.exe",
-  "notes": "Going to the garage during an offline test no longer splits your run into several sessions.",
-  "notas": "Ir para a garagem num teste offline nao quebra mais o seu stint em varias sessoes."
+  "version": "0.2.11",
+  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.2.11/LapticsCapture_v0.2.11.exe",
+  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.2.11/LapticsCapture_v0.2.11.exe",
+  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.2.11/LapticsUpdater_v0.2.11.exe",
+  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.2.11/LapticsApply_v0.2.11.exe",
+  "notes": "Going to the garage during an offline test no longer starts a new session.",
+  "notas": "Ir para a garagem num teste offline nao comeca mais uma sessao nova."
 }
