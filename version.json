@@ -1,9 +1,9 @@
 {
-  "version": "0.2.12",
-  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.2.12/LapticsCapture_v0.2.12.exe",
-  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.2.12/LapticsCapture_v0.2.12.exe",
-  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.2.12/LapticsUpdater_v0.2.12.exe",
-  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.2.12/LapticsApply_v0.2.12.exe",
-  "notes": "Recognize the Logitech G923 (Xbox/PC) wheel and Trak Racer TR Pro Pedals in equipment detection.",
-  "notas": "Reconhece o volante Logitech G923 (Xbox/PC) e as pedaleiras Trak Racer TR Pro na deteccao de equipamento."
+  "version": "0.2.13",
+  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.2.13/LapticsCapture_v0.2.13.exe",
+  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.2.13/LapticsCapture_v0.2.13.exe",
+  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.2.13/LapticsUpdater_v0.2.13.exe",
+  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.2.13/LapticsApply_v0.2.13.exe",
+  "notes": "Fix pedal brand: Tavares Racing TR Pro Pedals (was mislabeled Trak Racer in v0.2.12).",
+  "notas": "Corrige a marca do pedal: Tavares Racing TR Pro Pedals (saiu como Trak Racer na v0.2.12)."
 }
