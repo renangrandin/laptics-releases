@@ -1,9 +1,9 @@
 {
-  "version": "0.2.15",
-  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.2.15/LapticsCapture_v0.2.15.exe",
-  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.2.15/LapticsCapture_v0.2.15.exe",
-  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.2.15/LapticsUpdater_v0.2.15.exe",
-  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.2.15/LapticsApply_v0.2.15.exe",
-  "notes": "Fair lap validation: a full flying lap that closes as iRacing lap 1 (tracks where the pit exit sits past the start line, like the Nürburgring 24h layout) now counts as a valid lap instead of being discarded as an out-lap; a single-frame off-track blip no longer invalidates a lap (the sim itself doesn't give a 1x for it); and lap telemetry no longer carries garage/out-lap frames glued before the real lap.",
-  "notas": "Validação justa de voltas: uma volta lançada completa que fecha como volta 1 do iRacing (pistas com pit exit depois da linha, como o traçado 24h de Nürburgring) agora conta como volta válida em vez de ser descartada como out-lap; um blip de off-track de 1 frame não invalida mais a volta (o próprio sim não dá 1x nele); e a telemetria da volta não sobe mais com frames de garagem/out-lap grudados antes da volta real."
+  "version": "0.2.16",
+  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.2.16/LapticsCapture_v0.2.16.exe",
+  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.2.16/LapticsCapture_v0.2.16.exe",
+  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.2.16/LapticsUpdater_v0.2.16.exe",
+  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.2.16/LapticsApply_v0.2.16.exe",
+  "notes": "Honest session status: an offline test session now ends as Completed when you exit the sim (it used to stay Disconnected forever), and the site now shows a Pending upload badge while laps are still waiting on your PC to reach the cloud.",
+  "notas": "Status de sessão honesto: sessão de teste offline agora termina como Completa quando você sai do sim (antes ficava Desconexão para sempre), e o site passa a mostrar um selo de Upload pendente enquanto houver voltas no seu PC esperando para subir."
 }
