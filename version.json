@@ -1,9 +1,9 @@
 {
-  "version": "0.2.16",
-  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.2.16/LapticsCapture_v0.2.16.exe",
-  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.2.16/LapticsCapture_v0.2.16.exe",
-  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.2.16/LapticsUpdater_v0.2.16.exe",
-  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.2.16/LapticsApply_v0.2.16.exe",
-  "notes": "Honest session status: an offline test session now ends as Completed when you exit the sim (it used to stay Disconnected forever), and the site now shows a Pending upload badge while laps are still waiting on your PC to reach the cloud.",
-  "notas": "Status de sessão honesto: sessão de teste offline agora termina como Completa quando você sai do sim (antes ficava Desconexão para sempre), e o site passa a mostrar um selo de Upload pendente enquanto houver voltas no seu PC esperando para subir."
+  "version": "0.3.0",
+  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.3.0/LapticsCapture_v0.3.0.exe",
+  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.3.0/LapticsCapture_v0.3.0.exe",
+  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.3.0/LapticsUpdater_v0.3.0.exe",
+  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.3.0/LapticsApply_v0.3.0.exe",
+  "notes": "Lighter telemetry: laps now use a more compact storage format (about 40% smaller) with identical precision. Nothing changes in what you see.",
+  "notas": "Telemetria mais leve: as voltas agora usam um formato de armazenamento mais compacto (cerca de 40% menor), com a mesma precisão. Nada muda no que você vê."
 }
