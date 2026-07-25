@@ -1,9 +1,9 @@
 {
-  "version": "0.3.0",
-  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.3.0/LapticsCapture_v0.3.0.exe",
-  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.3.0/LapticsCapture_v0.3.0.exe",
-  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.3.0/LapticsUpdater_v0.3.0.exe",
-  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.3.0/LapticsApply_v0.3.0.exe",
-  "notes": "Lighter telemetry: laps now use a more compact storage format (about 40% smaller) with identical precision. Nothing changes in what you see.",
-  "notas": "Telemetria mais leve: as voltas agora usam um formato de armazenamento mais compacto (cerca de 40% menor), com a mesma precisão. Nada muda no que você vê."
+  "version": "0.3.1",
+  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.3.1/LapticsCapture_v0.3.1.exe",
+  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.3.1/LapticsCapture_v0.3.1.exe",
+  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.3.1/LapticsUpdater_v0.3.1.exe",
+  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.3.1/LapticsApply_v0.3.1.exe",
+  "notes": "Smoother telemetry graphs on long tracks (e.g. Nürburgring): track position is now recorded with finer precision. Same data, just displayed cleaner.",
+  "notas": "Gráficos de telemetria mais suaves em pistas longas (ex.: Nürburgring): a posição na pista agora é gravada com mais precisão. O mesmo dado, só exibido mais limpo."
 }
