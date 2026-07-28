@@ -1,9 +1,9 @@
 {
-  "version": "0.3.1",
-  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.3.1/LapticsCapture_v0.3.1.exe",
-  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.3.1/LapticsCapture_v0.3.1.exe",
-  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.3.1/LapticsUpdater_v0.3.1.exe",
-  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.3.1/LapticsApply_v0.3.1.exe",
-  "notes": "Smoother telemetry graphs on long tracks (e.g. Nürburgring): track position is now recorded with finer precision. Same data, just displayed cleaner.",
-  "notas": "Gráficos de telemetria mais suaves em pistas longas (ex.: Nürburgring): a posição na pista agora é gravada com mais precisão. O mesmo dado, só exibido mais limpo."
+  "version": "0.3.3",
+  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.3.3/LapticsCapture_v0.3.3.exe",
+  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.3.3/LapticsCapture_v0.3.3.exe",
+  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.3.3/LapticsUpdater_v0.3.3.exe",
+  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.3.3/LapticsApply_v0.3.3.exe",
+  "notes": "Sessions now record their competitive context: whether the event was official, the series, the strength of field (grid size + iRating range), and — for races/qualifying — your finishing position, laps led and incidents. Captured live and at the checkered, so it survives leaving the session right away.",
+  "notas": "As sessões agora guardam o contexto competitivo: se o evento foi oficial, a série, a força do grid (tamanho + faixa de iRating) e — em corrida/quali — sua posição final, voltas lideradas e incidentes. Capturado ao vivo e no checkered, então sobrevive a você sair da sessão na hora."
 }
