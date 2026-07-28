@@ -1,9 +1,9 @@
 {
-  "version": "0.3.3",
-  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.3.3/LapticsCapture_v0.3.3.exe",
-  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.3.3/LapticsCapture_v0.3.3.exe",
-  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.3.3/LapticsUpdater_v0.3.3.exe",
-  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.3.3/LapticsApply_v0.3.3.exe",
-  "notes": "Sessions now record their competitive context: whether the event was official, the series, the strength of field (grid size + iRating range), and — for races/qualifying — your finishing position, laps led and incidents. Captured live and at the checkered, so it survives leaving the session right away.",
-  "notas": "As sessões agora guardam o contexto competitivo: se o evento foi oficial, a série, a força do grid (tamanho + faixa de iRating) e — em corrida/quali — sua posição final, voltas lideradas e incidentes. Capturado ao vivo e no checkered, então sobrevive a você sair da sessão na hora."
+  "version": "0.3.4",
+  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.3.4/LapticsCapture_v0.3.4.exe",
+  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.3.4/LapticsCapture_v0.3.4.exe",
+  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.3.4/LapticsUpdater_v0.3.4.exe",
+  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.3.4/LapticsApply_v0.3.4.exe",
+  "notes": "Heavy race laps no longer get stuck on 'pending upload'. On long tracks like the Nürburgring, laps that failed to send mid-race now upload the moment you cross the finish, pit, or leave the session — when your connection is free — and finish sending before the app closes, updates, or logs out. Uploads no longer fight each other for bandwidth, and if your session ever expires the app now tells you to log back in instead of retrying silently.",
+  "notas": "Voltas pesadas de corrida não ficam mais presas em 'upload pendente'. Em pistas longas como Nürburgring, as voltas que falhavam no meio da corrida agora sobem assim que você cruza a linha, entra nos boxes ou sai da sessão — quando a conexão está livre — e terminam de enviar antes de o app fechar, atualizar ou deslogar. Os envios não competem mais por banda entre si, e se a sessão expirar o app avisa para você relogar em vez de tentar em silêncio."
 }
