@@ -1,9 +1,9 @@
 {
-  "version": "0.3.4",
-  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.3.4/LapticsCapture_v0.3.4.exe",
-  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.3.4/LapticsCapture_v0.3.4.exe",
-  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.3.4/LapticsUpdater_v0.3.4.exe",
-  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.3.4/LapticsApply_v0.3.4.exe",
-  "notes": "Heavy race laps no longer get stuck on 'pending upload'. On long tracks like the Nürburgring, laps that failed to send mid-race now upload the moment you cross the finish, pit, or leave the session — when your connection is free — and finish sending before the app closes, updates, or logs out. Uploads no longer fight each other for bandwidth, and if your session ever expires the app now tells you to log back in instead of retrying silently.",
-  "notas": "Voltas pesadas de corrida não ficam mais presas em 'upload pendente'. Em pistas longas como Nürburgring, as voltas que falhavam no meio da corrida agora sobem assim que você cruza a linha, entra nos boxes ou sai da sessão — quando a conexão está livre — e terminam de enviar antes de o app fechar, atualizar ou deslogar. Os envios não competem mais por banda entre si, e se a sessão expirar o app avisa para você relogar em vez de tentar em silêncio."
+  "version": "0.3.5",
+  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.3.5/LapticsCapture_v0.3.5.exe",
+  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.3.5/LapticsCapture_v0.3.5.exe",
+  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.3.5/LapticsUpdater_v0.3.5.exe",
+  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.3.5/LapticsApply_v0.3.5.exe",
+  "notes": "Your iRacing iRating and license now save reliably with each online session. They're captured throughout the session (the same read that computes strength of field), instead of only in the first seconds when the rating hadn't loaded yet.",
+  "notas": "Seu iRating e licença do iRacing agora são salvos de forma confiável em cada sessão online. Passam a ser capturados ao longo da sessão (a mesma leitura que calcula a força do grid), em vez de só nos primeiros segundos, quando o rating ainda não tinha carregado."
 }
