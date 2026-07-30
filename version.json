@@ -1,9 +1,9 @@
 {
-  "version": "0.3.5",
-  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.3.5/LapticsCapture_v0.3.5.exe",
-  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.3.5/LapticsCapture_v0.3.5.exe",
-  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.3.5/LapticsUpdater_v0.3.5.exe",
-  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.3.5/LapticsApply_v0.3.5.exe",
-  "notes": "Your iRacing iRating and license now save reliably with each online session. They're captured throughout the session (the same read that computes strength of field), instead of only in the first seconds when the rating hadn't loaded yet.",
-  "notas": "Seu iRating e licença do iRacing agora são salvos de forma confiável em cada sessão online. Passam a ser capturados ao longo da sessão (a mesma leitura que calcula a força do grid), em vez de só nos primeiros segundos, quando o rating ainda não tinha carregado."
+  "version": "0.3.6",
+  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.3.6/LapticsCapture_v0.3.6.exe",
+  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.3.6/LapticsCapture_v0.3.6.exe",
+  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.3.6/LapticsUpdater_v0.3.6.exe",
+  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.3.6/LapticsApply_v0.3.6.exe",
+  "notes": "Internal reliability and diagnostics improvements.",
+  "notas": "Melhorias internas de confiabilidade e diagnóstico."
 }
