@@ -1,9 +1,9 @@
 {
-  "version": "0.3.7",
-  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.3.7/LapticsCapture_v0.3.7.exe",
-  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.3.7/LapticsCapture_v0.3.7.exe",
-  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.3.7/LapticsUpdater_v0.3.7.exe",
-  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.3.7/LapticsApply_v0.3.7.exe",
-  "notes": "Fixes two SDK variables that never existed: dead GPS band removed, DQ/DNF now detected.",
-  "notas": "Corrige duas variáveis que o SDK não expõe: banda de GPS morta removida e DQ/DNF finalmente detectados."
+  "version": "0.3.8",
+  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.3.8/LapticsCapture_v0.3.8.exe",
+  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.3.8/LapticsCapture_v0.3.8.exe",
+  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.3.8/LapticsUpdater_v0.3.8.exe",
+  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.3.8/LapticsApply_v0.3.8.exe",
+  "notes": "Records nearby cars (within 1.5s ahead/behind) for traffic and overtake analysis.",
+  "notas": "Grava os carros próximos (±1,5s) para análise de tráfego e ultrapassagens."
 }
