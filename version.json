@@ -1,9 +1,9 @@
 {
-  "version": "0.4.1",
-  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.1/LapticsCapture_v0.4.1.exe",
-  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.1/LapticsCapture_v0.4.1.exe",
-  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.1/LapticsUpdater_v0.4.1.exe",
-  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.1/LapticsApply_v0.4.1.exe",
-  "notes": "Laptics Arcade: the Capture can now share your pedals with the pedal games on laptics.app — read straight from USB, with no simulator running. Calibrate your pedals in Settings.",
-  "notas": "Laptics Arcade: o Capture agora compartilha seus pedais com os joguinhos de pedal do laptics.app — lidos direto do USB, sem precisar de simulador aberto. Calibre seus pedais em Settings."
+  "version": "0.4.2",
+  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.2/LapticsCapture_v0.4.2.exe",
+  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.2/LapticsCapture_v0.4.2.exe",
+  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.2/LapticsUpdater_v0.4.2.exe",
+  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.2/LapticsApply_v0.4.2.exe",
+  "notes": "Training Center bridge: the Capture Center now shows the mini-game connection live (amber while waiting, green while playing), with a pedal mapping wizard — 0%, 100% and optional dead-zones — that the game page can open remotely. This completes the pedal relay that v0.4.1 introduced.",
+  "notas": "Ponte do Centro de Treinamento: o Capture Center agora mostra a conexão com o mini-game ao vivo (âmbar aguardando, verde jogando), com wizard de mapeamento dos pedais — 0%, 100% e dead-zones opcionais — que a página do jogo abre remotamente. Completa o relay de pedais que a v0.4.1 introduziu."
 }
