@@ -1,9 +1,9 @@
 {
-  "version": "0.4.3",
-  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.3/LapticsCapture_v0.4.3.exe",
-  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.3/LapticsCapture_v0.4.3.exe",
-  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.3/LapticsUpdater_v0.4.3.exe",
-  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.3/LapticsApply_v0.4.3.exe",
-  "notes": "Fixes from the field: auto-update now applies even with console capture armed (F1/GT7 listening no longer blocks it — updates also install silently when you close the app), and the Capture Center no longer stays stuck on a mini-game after the browser closes. TIP for older versions: if console capture (GT7/F1) is on, turn its toggles OFF in Settings for ~15s and the update installs right away.",
-  "notas": "Correções do teste de campo: o auto-update agora aplica mesmo com a captura de console armada (a escuta do F1/GT7 não bloqueia mais — e updates também instalam silenciosamente ao fechar o app), e o Capture Center não fica mais preso num mini-game depois que o navegador fecha. DICA para versões antigas: com a captura de console (GT7/F1) ligada, desligue os toggles em Settings por ~15s que o update instala na hora."
+  "version": "0.4.4",
+  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.4/LapticsCapture_v0.4.4.exe",
+  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.4/LapticsCapture_v0.4.4.exe",
+  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.4/LapticsUpdater_v0.4.4.exe",
+  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.4/LapticsApply_v0.4.4.exe",
+  "notes": "Truthful capture status: the site now shows 'waiting (listener armed)' instead of 'capturing' when a console listener is idle, and the Laptics Arcade works with console capture armed (it only blocks while you are actually driving). TIP for older versions: if console capture is on, turn its toggles OFF in Settings for ~15s and the update installs right away.",
+  "notas": "Status de captura verdadeiro: o site agora mostra 'aguardando (escuta armada)' em vez de 'capturando' com a escuta de console ociosa, e o Laptics Arcade funciona com a captura de console armada (só bloqueia enquanto você está dirigindo de verdade). DICA para versões antigas: com a captura de console ligada, desligue os toggles em Settings por ~15s que o update instala na hora."
 }
