@@ -1,9 +1,9 @@
 {
-  "version": "0.4.2",
-  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.2/LapticsCapture_v0.4.2.exe",
-  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.2/LapticsCapture_v0.4.2.exe",
-  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.2/LapticsUpdater_v0.4.2.exe",
-  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.2/LapticsApply_v0.4.2.exe",
-  "notes": "Training Center bridge: the Capture Center now shows the mini-game connection live (amber while waiting, green while playing), with a pedal mapping wizard — 0%, 100% and optional dead-zones — that the game page can open remotely. This completes the pedal relay that v0.4.1 introduced. TIP: if your console capture (GT7/F1) is enabled, the update waits forever for an idle moment — turn the console toggles OFF in Settings for ~15 seconds and it installs right away (then turn them back on).",
-  "notas": "Ponte do Centro de Treinamento: o Capture Center agora mostra a conexão com o mini-game ao vivo (âmbar aguardando, verde jogando), com wizard de mapeamento dos pedais — 0%, 100% e dead-zones opcionais — que a página do jogo abre remotamente. Completa o relay de pedais que a v0.4.1 introduziu. DICA: com a captura de console (GT7/F1) ligada, o update espera um ocioso que não chega — DESLIGUE os toggles de console em Settings por ~15 segundos que ele instala na hora (depois é só religar)."
+  "version": "0.4.3",
+  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.3/LapticsCapture_v0.4.3.exe",
+  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.3/LapticsCapture_v0.4.3.exe",
+  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.3/LapticsUpdater_v0.4.3.exe",
+  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.3/LapticsApply_v0.4.3.exe",
+  "notes": "Fixes from the field: auto-update now applies even with console capture armed (F1/GT7 listening no longer blocks it — updates also install silently when you close the app), and the Capture Center no longer stays stuck on a mini-game after the browser closes. TIP for older versions: if console capture (GT7/F1) is on, turn its toggles OFF in Settings for ~15s and the update installs right away.",
+  "notas": "Correções do teste de campo: o auto-update agora aplica mesmo com a captura de console armada (a escuta do F1/GT7 não bloqueia mais — e updates também instalam silenciosamente ao fechar o app), e o Capture Center não fica mais preso num mini-game depois que o navegador fecha. DICA para versões antigas: com a captura de console (GT7/F1) ligada, desligue os toggles em Settings por ~15s que o update instala na hora."
 }
