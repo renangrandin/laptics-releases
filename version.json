@@ -1,9 +1,9 @@
 {
-  "version": "0.4.5",
-  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.5/LapticsCapture_v0.4.5.exe",
-  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.5/LapticsCapture_v0.4.5.exe",
-  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.5/LapticsUpdater_v0.4.5.exe",
-  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.5/LapticsApply_v0.4.5.exe",
-  "notes": "Admin polish: mini-games from the Training Center now count as a live capture ('Capturing Trail Tunnel'), and an armed console listener simply shows as 'App open'. TIP for older versions: if console capture is on, turn its toggles OFF in Settings for ~15s and the update installs right away.",
-  "notas": "Polimento do admin: mini-games do Centro de Treinamento agora contam como captura ao vivo ('Capturando Trail Tunnel'), e escuta de console armada aparece simplesmente como 'App aberto'. DICA para versões antigas: com a captura de console ligada, desligue os toggles em Settings por ~15s que o update instala na hora."
+  "version": "0.4.6",
+  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.6/LapticsCapture_v0.4.6.exe",
+  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.6/LapticsCapture_v0.4.6.exe",
+  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.6/LapticsUpdater_v0.4.6.exe",
+  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.6/LapticsApply_v0.4.6.exe",
+  "notes": "Fixes: the Equipment card no longer gets stuck on 'Checking...' at startup; the Activity Log only says a game is connected when real telemetry arrives (an armed F1 listener now reads 'listening'); and the app cleans up a leftover Windows auto-start entry from the old DeltaCoach days, so it never launches twice on boot.",
+  "notas": "Correções: o card de Equipamento não trava mais em 'Checking...' na abertura; o Activity Log só diz que um jogo conectou quando chega telemetria de verdade (escuta armada do F1 agora aparece como 'listening'); e o app remove uma entrada antiga de auto-start do Windows da época do DeltaCoach, que podia abrir o app duas vezes no boot."
 }
