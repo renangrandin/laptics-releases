@@ -1,9 +1,9 @@
 {
-  "version": "0.4.0",
-  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.0/LapticsCapture_v0.4.0.exe",
-  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.0/LapticsCapture_v0.4.0.exe",
-  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.0/LapticsUpdater_v0.4.0.exe",
-  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.0/LapticsApply_v0.4.0.exe",
-  "notes": "Console support: capture laps from Gran Turismo 7 and F1 23/24/25 over your network — no PC sim required. Also brings the redesigned app, with automatic console discovery, your equipment, and English, Portuguese and Spanish.",
-  "notas": "Suporte a console: capture voltas do Gran Turismo 7 e do F1 23/24/25 pela sua rede — sem precisar de simulador no PC. Traz também o app redesenhado, com descoberta automática do console, seus equipamentos e os idiomas português, inglês e espanhol."
+  "version": "0.4.1",
+  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.1/LapticsCapture_v0.4.1.exe",
+  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.1/LapticsCapture_v0.4.1.exe",
+  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.1/LapticsUpdater_v0.4.1.exe",
+  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.1/LapticsApply_v0.4.1.exe",
+  "notes": "Laptics Arcade: the Capture can now share your pedals with the pedal games on laptics.app — read straight from USB, with no simulator running. Calibrate your pedals in Settings.",
+  "notas": "Laptics Arcade: o Capture agora compartilha seus pedais com os joguinhos de pedal do laptics.app — lidos direto do USB, sem precisar de simulador aberto. Calibre seus pedais em Settings."
 }
