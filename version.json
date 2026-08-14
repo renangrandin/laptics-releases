@@ -1,9 +1,9 @@
 {
-  "version": "0.4.4",
-  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.4/LapticsCapture_v0.4.4.exe",
-  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.4/LapticsCapture_v0.4.4.exe",
-  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.4/LapticsUpdater_v0.4.4.exe",
-  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.4/LapticsApply_v0.4.4.exe",
-  "notes": "Truthful capture status: the site now shows 'waiting (listener armed)' instead of 'capturing' when a console listener is idle, and the Laptics Arcade works with console capture armed (it only blocks while you are actually driving). TIP for older versions: if console capture is on, turn its toggles OFF in Settings for ~15s and the update installs right away.",
-  "notas": "Status de captura verdadeiro: o site agora mostra 'aguardando (escuta armada)' em vez de 'capturando' com a escuta de console ociosa, e o Laptics Arcade funciona com a captura de console armada (só bloqueia enquanto você está dirigindo de verdade). DICA para versões antigas: com a captura de console ligada, desligue os toggles em Settings por ~15s que o update instala na hora."
+  "version": "0.4.5",
+  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.5/LapticsCapture_v0.4.5.exe",
+  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.5/LapticsCapture_v0.4.5.exe",
+  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.5/LapticsUpdater_v0.4.5.exe",
+  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.5/LapticsApply_v0.4.5.exe",
+  "notes": "Admin polish: mini-games from the Training Center now count as a live capture ('Capturing Trail Tunnel'), and an armed console listener simply shows as 'App open'. TIP for older versions: if console capture is on, turn its toggles OFF in Settings for ~15s and the update installs right away.",
+  "notas": "Polimento do admin: mini-games do Centro de Treinamento agora contam como captura ao vivo ('Capturando Trail Tunnel'), e escuta de console armada aparece simplesmente como 'App aberto'. DICA para versões antigas: com a captura de console ligada, desligue os toggles em Settings por ~15s que o update instala na hora."
 }
