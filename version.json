@@ -1,9 +1,9 @@
 {
-  "version": "0.4.7",
-  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.7/LapticsCapture_v0.4.7.exe",
-  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.7/LapticsCapture_v0.4.7.exe",
-  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.7/LapticsUpdater_v0.4.7.exe",
-  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.7/LapticsApply_v0.4.7.exe",
-  "notes": "New: import your iRacing history. If you have telemetry files on disk — iRacing writes .ibt when disk telemetry is on — the Capture turns them into sessions on the site: lap times, sectors, ideal lap and your progress over time. You choose which sessions keep the full telemetry (replay, charts, comparison and AI coach, using your plan minutes) and which come in as metrics only, which cost nothing from your plan. Sessions the game split across several files are joined back into one.",
-  "notas": "Novidade: importe seu histórico do iRacing. Se você tem arquivos de telemetria no disco — o iRacing grava .ibt quando a telemetria em disco está ligada — o Capture os transforma em sessões no site: tempos de volta, setores, volta ideal e sua evolução. Você escolhe quais sessões guardam a telemetria completa (replay, gráficos, comparação e coach de IA, consumindo minutos do seu plano) e quais entram só com métricas, que não custam nada do plano. Sessões que o jogo quebrou em vários arquivos voltam a ser uma só."
+  "version": "0.4.8",
+  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.8/LapticsCapture_v0.4.8.exe",
+  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.8/LapticsCapture_v0.4.8.exe",
+  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.8/LapticsUpdater_v0.4.8.exe",
+  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.8/LapticsApply_v0.4.8.exe",
+  "notes": "The import screen now labels each session: Race, Qualifying, Practice or Testing, and whether it was official, hosted, a league event or offline — so you can spot the sessions worth keeping without opening them one by one.",
+  "notas": "A tela de importação agora identifica cada sessão: Corrida, Classificação, Treino ou Teste, e se foi oficial, hosted, de liga ou offline — assim dá para achar as sessões que valem a pena sem abrir uma por uma."
 }
