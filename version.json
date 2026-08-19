@@ -1,9 +1,9 @@
 {
-  "version": "0.4.9",
-  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.9/LapticsCapture_v0.4.9.exe",
-  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.9/LapticsCapture_v0.4.9.exe",
-  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.9/LapticsUpdater_v0.4.9.exe",
-  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.9/LapticsApply_v0.4.9.exe",
-  "notes": "Fixes offline sessions being split into several. Using Active Reset mid-run made iRacing drop the lap counter to zero for a few frames, and Capture read that as a brand new drive — a single 46-minute test at Suzuka ended up as six separate sessions in your list. Capture now checks the sim's own session clock before splitting, so only a real Restart starts a new session.",
-  "notas": "Corrige sessões offline que se partiam em várias. Usar o Active Reset no meio do stint fazia o iRacing zerar o contador de voltas por alguns frames, e o Capture lia isso como um drive novo — um teste de 46 minutos em Suzuka virou seis sessões separadas na sua lista. Agora o Capture confere o relógio da sessão do próprio simulador antes de partir, então só um Restart de verdade abre sessão nova."
+  "version": "0.4.10",
+  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.10/LapticsCapture_v0.4.10.exe",
+  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.10/LapticsCapture_v0.4.10.exe",
+  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.10/LapticsUpdater_v0.4.10.exe",
+  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.10/LapticsApply_v0.4.10.exe",
+  "notes": "The import screen got a real layout: sessions grouped by day, a coloured badge on each one saying Race, Qualifying, Practice or Testing and whether it was official, hosted, league or offline, plus a type filter and select-all — finding the races among a hundred test runs is now a glance instead of a scroll.",
+  "notas": "A tela de importação ganhou layout de verdade: sessões agrupadas por dia, selo colorido em cada uma dizendo Corrida, Classificação, Treino ou Teste e se foi oficial, hosted, de liga ou offline, além de filtro por tipo e marcar-todas — achar as corridas no meio de cem testes virou uma olhada, não uma rolagem."
 }
