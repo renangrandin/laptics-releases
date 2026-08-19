@@ -1,9 +1,9 @@
 {
-  "version": "0.4.11",
-  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.11/LapticsCapture_v0.4.11.exe",
-  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.11/LapticsCapture_v0.4.11.exe",
-  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.11/LapticsUpdater_v0.4.11.exe",
-  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.11/LapticsApply_v0.4.11.exe",
-  "notes": "Pedal calibration got eyes: the wizard now lists every device and axis it is reading, warns when a controller could not be opened (another app holding the pedals), ignores axes that move on their own, and understands pedals that announce themselves as Accelerator/Brake/Clutch — the case where the throttle would not map at all.",
-  "notas": "A calibração de pedais ganhou olhos: o wizard agora lista cada dispositivo e eixo que está lendo, avisa quando uma controladora não pôde ser aberta (outro app segurando os pedais), ignora eixos que se mexem sozinhos e entende pedais que se anunciam como Accelerator/Brake/Clutch — o caso em que o acelerador não mapeava de forma alguma."
+  "version": "0.4.12",
+  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.12/LapticsCapture_v0.4.12.exe",
+  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.12/LapticsCapture_v0.4.12.exe",
+  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.12/LapticsUpdater_v0.4.12.exe",
+  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.12/LapticsApply_v0.4.12.exe",
+  "notes": "The Training Center now uses the same pedal calibration as the rest of the app, reading your pedals straight from USB. The old mapping screen only saw six fixed axes, so some pedals — throttles especially — could never be mapped at all. If you had mapped your pedals for the mini-games before, calibrate once more in Settings.",
+  "notas": "O Centro de Treinamento passa a usar a mesma calibração de pedais do resto do app, lendo direto do USB. A tela antiga de mapeamento só enxergava seis eixos fixos, e por isso alguns pedais — o acelerador em especial — não mapeavam de jeito nenhum. Se você já tinha mapeado os pedais para os mini-games, calibre uma vez em Settings."
 }
