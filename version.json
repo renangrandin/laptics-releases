@@ -1,9 +1,9 @@
 {
-  "version": "0.4.10",
-  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.10/LapticsCapture_v0.4.10.exe",
-  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.10/LapticsCapture_v0.4.10.exe",
-  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.10/LapticsUpdater_v0.4.10.exe",
-  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.10/LapticsApply_v0.4.10.exe",
-  "notes": "The import screen got a real layout: sessions grouped by day, a coloured badge on each one saying Race, Qualifying, Practice or Testing and whether it was official, hosted, league or offline, plus a type filter and select-all — finding the races among a hundred test runs is now a glance instead of a scroll.",
-  "notas": "A tela de importação ganhou layout de verdade: sessões agrupadas por dia, selo colorido em cada uma dizendo Corrida, Classificação, Treino ou Teste e se foi oficial, hosted, de liga ou offline, além de filtro por tipo e marcar-todas — achar as corridas no meio de cem testes virou uma olhada, não uma rolagem."
+  "version": "0.4.11",
+  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.11/LapticsCapture_v0.4.11.exe",
+  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.11/LapticsCapture_v0.4.11.exe",
+  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.11/LapticsUpdater_v0.4.11.exe",
+  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.11/LapticsApply_v0.4.11.exe",
+  "notes": "Pedal calibration got eyes: the wizard now lists every device and axis it is reading, warns when a controller could not be opened (another app holding the pedals), ignores axes that move on their own, and understands pedals that announce themselves as Accelerator/Brake/Clutch — the case where the throttle would not map at all.",
+  "notas": "A calibração de pedais ganhou olhos: o wizard agora lista cada dispositivo e eixo que está lendo, avisa quando uma controladora não pôde ser aberta (outro app segurando os pedais), ignora eixos que se mexem sozinhos e entende pedais que se anunciam como Accelerator/Brake/Clutch — o caso em que o acelerador não mapeava de forma alguma."
 }
