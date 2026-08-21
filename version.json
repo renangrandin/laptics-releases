@@ -1,9 +1,9 @@
 {
-  "version": "0.4.12",
-  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.12/LapticsCapture_v0.4.12.exe",
-  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.12/LapticsCapture_v0.4.12.exe",
-  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.12/LapticsUpdater_v0.4.12.exe",
-  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.12/LapticsApply_v0.4.12.exe",
-  "notes": "The Training Center now uses the same pedal calibration as the rest of the app, reading your pedals straight from USB. The old mapping screen only saw six fixed axes, so some pedals — throttles especially — could never be mapped at all. If you had mapped your pedals for the mini-games before, calibrate once more in Settings.",
-  "notas": "O Centro de Treinamento passa a usar a mesma calibração de pedais do resto do app, lendo direto do USB. A tela antiga de mapeamento só enxergava seis eixos fixos, e por isso alguns pedais — o acelerador em especial — não mapeavam de jeito nenhum. Se você já tinha mapeado os pedais para os mini-games, calibre uma vez em Settings."
+  "version": "0.4.13",
+  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.13/LapticsCapture_v0.4.13.exe",
+  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.13/LapticsCapture_v0.4.13.exe",
+  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.13/LapticsUpdater_v0.4.13.exe",
+  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.13/LapticsApply_v0.4.13.exe",
+  "notes": "Watching a replay no longer records a session. Until now the Capture only asked whether iRacing had a session running — and a replay satisfies that — so an evening spent reviewing replays could show up as races you never drove. It now checks that you are actually in the car before recording anything.",
+  "notas": "Assistir replay não registra mais sessão. Até agora o Capture só perguntava se o iRacing tinha uma sessão rodando — e um replay satisfaz isso —, então uma noite revendo replays podia virar corridas que você nunca dirigiu. Agora ele confere que você está de fato no carro antes de gravar qualquer coisa."
 }
