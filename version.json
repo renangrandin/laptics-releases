@@ -1,9 +1,9 @@
 {
-  "version": "0.4.13",
-  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.13/LapticsCapture_v0.4.13.exe",
-  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.13/LapticsCapture_v0.4.13.exe",
-  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.13/LapticsUpdater_v0.4.13.exe",
-  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.13/LapticsApply_v0.4.13.exe",
-  "notes": "Watching a replay no longer records a session. Until now the Capture only asked whether iRacing had a session running — and a replay satisfies that — so an evening spent reviewing replays could show up as races you never drove. It now checks that you are actually in the car before recording anything.",
-  "notas": "Assistir replay não registra mais sessão. Até agora o Capture só perguntava se o iRacing tinha uma sessão rodando — e um replay satisfaz isso —, então uma noite revendo replays podia virar corridas que você nunca dirigiu. Agora ele confere que você está de fato no carro antes de gravar qualquer coisa."
+  "version": "0.4.14",
+  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.14/LapticsCapture_v0.4.14.exe",
+  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.14/LapticsCapture_v0.4.14.exe",
+  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.14/LapticsUpdater_v0.4.14.exe",
+  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.14/LapticsApply_v0.4.14.exe",
+  "notes": "Pedal calibration now reads signed axes correctly. Pedals whose firmware reports the FreeJoy-style signed range (TR Pro Pedals and other DIY boards) spiked to 100% at the lightest touch, dropped while pressing, and saved a garbage calibration. If that happened to you, calibrate again after updating.",
+  "notas": "A calibração de pedais agora lê eixos com sinal corretamente. Pedais cujo firmware reporta a faixa signed do FreeJoy (TR Pro Pedals e outras placas DIY) saltavam para 100% no toque, caíam enquanto pressionava e salvavam uma calibração inválida. Se aconteceu com você, recalibre depois de atualizar."
 }
