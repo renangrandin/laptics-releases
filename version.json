@@ -1,9 +1,9 @@
 {
-  "version": "0.4.15",
-  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.15/LapticsCapture_v0.4.15.exe",
-  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.15/LapticsCapture_v0.4.15.exe",
-  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.15/LapticsUpdater_v0.4.15.exe",
-  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.15/LapticsApply_v0.4.15.exe",
-  "notes": "Signing out really signs you out. Until now \"Sign out of account\" ended your session on the server but never erased the saved session file or the credentials in Windows Credential Manager — so the next time you opened the Capture it signed itself back in. Sign out now returns you to the login screen and asks for your password.",
-  "notas": "Sair da conta agora sai de verdade. Até agora o \"Sair da conta\" encerrava a sessão no servidor mas nunca apagava o arquivo de sessão salvo nem as credenciais no Gerenciador de Credenciais do Windows — então na vez seguinte o Capture entrava sozinho. Agora sair devolve você à tela de login, pedindo a senha."
+  "version": "0.4.16",
+  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.16/LapticsCapture_v0.4.16.exe",
+  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.16/LapticsCapture_v0.4.16.exe",
+  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.16/LapticsUpdater_v0.4.16.exe",
+  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.16/LapticsApply_v0.4.16.exe",
+  "notes": "Signing out now takes you back to the login screen. In 0.4.15 it did erase your saved session and credentials, but the app that reopened crashed on startup with a \"Failed to execute script 'main'\" error and closed instead: the new instance was reusing the temporary folder the old one was deleting. It now starts as a genuinely new instance.",
+  "notas": "Sair da conta agora devolve você à tela de login. Na 0.4.15 a sessão e as credenciais salvas eram apagadas de verdade, mas o app que reabria quebrava no arranque com \"Failed to execute script 'main'\" e fechava: a instância nova reaproveitava a pasta temporária que a antiga estava apagando. Agora ela sobe como uma instância realmente nova."
 }
