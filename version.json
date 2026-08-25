@@ -1,9 +1,9 @@
 {
-  "version": "0.4.16",
-  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.16/LapticsCapture_v0.4.16.exe",
-  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.16/LapticsCapture_v0.4.16.exe",
-  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.16/LapticsUpdater_v0.4.16.exe",
-  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.16/LapticsApply_v0.4.16.exe",
-  "notes": "Signing out now takes you back to the login screen. In 0.4.15 it did erase your saved session and credentials, but the app that reopened crashed on startup with a \"Failed to execute script 'main'\" error and closed instead: the new instance was reusing the temporary folder the old one was deleting. It now starts as a genuinely new instance.",
-  "notas": "Sair da conta agora devolve você à tela de login. Na 0.4.15 a sessão e as credenciais salvas eram apagadas de verdade, mas o app que reabria quebrava no arranque com \"Failed to execute script 'main'\" e fechava: a instância nova reaproveitava a pasta temporária que a antiga estava apagando. Agora ela sobe como uma instância realmente nova."
+  "version": "0.4.17",
+  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.17/LapticsCapture_v0.4.17.exe",
+  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.17/LapticsCapture_v0.4.17.exe",
+  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.17/LapticsUpdater_v0.4.17.exe",
+  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.17/LapticsApply_v0.4.17.exe",
+  "notes": "The iRacing history import window now answers every click. Each session offers a real choice — full telemetry (uses plan minutes), metrics only (free), or leave it out entirely — and the minutes counter and time estimate update as you change your mind. Before, unchecking a session silently kept charging its minutes: the planner only knew how to upgrade a session, never to walk one back.",
+  "notas": "A janela de importar histórico do iRacing agora responde a cada clique. Cada sessão tem uma escolha de verdade — telemetria completa (gasta minutos do plano), só métricas (grátis) ou ficar de fora — e o contador de minutos e a estimativa de tempo acompanham quando você muda de ideia. Antes, desmarcar uma sessão continuava cobrando os minutos dela em silêncio: o planejador só sabia subir uma sessão de nível, nunca voltar atrás."
 }
