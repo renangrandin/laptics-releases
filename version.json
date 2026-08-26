@@ -1,9 +1,9 @@
 {
-  "version": "0.4.17",
-  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.17/LapticsCapture_v0.4.17.exe",
-  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.17/LapticsCapture_v0.4.17.exe",
-  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.17/LapticsUpdater_v0.4.17.exe",
-  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.17/LapticsApply_v0.4.17.exe",
-  "notes": "The iRacing history import window now answers every click. Each session offers a real choice — full telemetry (uses plan minutes), metrics only (free), or leave it out entirely — and the minutes counter and time estimate update as you change your mind. Before, unchecking a session silently kept charging its minutes: the planner only knew how to upgrade a session, never to walk one back.",
-  "notas": "A janela de importar histórico do iRacing agora responde a cada clique. Cada sessão tem uma escolha de verdade — telemetria completa (gasta minutos do plano), só métricas (grátis) ou ficar de fora — e o contador de minutos e a estimativa de tempo acompanham quando você muda de ideia. Antes, desmarcar uma sessão continuava cobrando os minutos dela em silêncio: o planejador só sabia subir uma sessão de nível, nunca voltar atrás."
+  "version": "0.4.18",
+  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.18/LapticsCapture_v0.4.18.exe",
+  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.18/LapticsCapture_v0.4.18.exe",
+  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.18/LapticsUpdater_v0.4.18.exe",
+  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.18/LapticsApply_v0.4.18.exe",
+  "notes": "Smarter defaults in the iRacing history import. Everything now comes in as metrics only (free) by default, and only races from the last two weeks upload full telemetry — practice and test sessions are one click away if you want them. A new \"All metrics only\" button sets the whole list at once, and sessions you already imported as metrics can now be upgraded to full telemetry right from their checkbox.",
+  "notas": "Padrões mais espertos na importação de histórico do iRacing. Agora tudo entra como só métricas (grátis) por padrão, e apenas corridas das últimas duas semanas sobem telemetria completa — treinos e testes ficam a um clique se você quiser. O botão novo \"Todas só métricas\" ajusta a lista inteira de uma vez, e sessão que você já importou como métricas agora pode ser promovida a telemetria completa direto na caixa dela."
 }
