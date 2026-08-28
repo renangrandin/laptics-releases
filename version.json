@@ -1,9 +1,9 @@
 {
-  "version": "0.4.18",
-  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.18/LapticsCapture_v0.4.18.exe",
-  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.18/LapticsCapture_v0.4.18.exe",
-  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.18/LapticsUpdater_v0.4.18.exe",
-  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.18/LapticsApply_v0.4.18.exe",
-  "notes": "Smarter defaults in the iRacing history import. Everything now comes in as metrics only (free) by default, and only races from the last two weeks upload full telemetry — practice and test sessions are one click away if you want them. A new \"All metrics only\" button sets the whole list at once, and sessions you already imported as metrics can now be upgraded to full telemetry right from their checkbox.",
-  "notas": "Padrões mais espertos na importação de histórico do iRacing. Agora tudo entra como só métricas (grátis) por padrão, e apenas corridas das últimas duas semanas sobem telemetria completa — treinos e testes ficam a um clique se você quiser. O botão novo \"Todas só métricas\" ajusta a lista inteira de uma vez, e sessão que você já importou como métricas agora pode ser promovida a telemetria completa direto na caixa dela."
+  "version": "0.4.19",
+  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.19/LapticsCapture_v0.4.19.exe",
+  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.19/LapticsCapture_v0.4.19.exe",
+  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.19/LapticsUpdater_v0.4.19.exe",
+  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.19/LapticsApply_v0.4.19.exe",
+  "notes": "A long interruption no longer splits one drive into two sessions. If the sim disappeared — a crash, a pause, a long stop in the garage — the Capture used to close the session on the spot, and coming back opened a new one: a single race showed up twice, with the laps split between them. It now keeps the session open and waits up to 15 minutes for the sim to come back, using the sim's own clock to tell a continued drive from a genuine restart.",
+  "notas": "Interrupção longa não parte mais um drive em duas sessões. Quando o sim sumia — uma queda, uma pausa, uma parada longa na garagem — o Capture encerrava a sessão na hora, e a volta abria outra: uma corrida só aparecia duas vezes, com as voltas divididas entre elas. Agora ele mantém a sessão aberta e espera até 15 minutos o sim voltar, usando o relógio do próprio sim para saber se o drive continuou ou se foi um restart de verdade."
 }
