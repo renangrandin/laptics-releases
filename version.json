@@ -1,9 +1,9 @@
 {
-  "version": "0.4.20",
-  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.20/LapticsCapture_v0.4.20.exe",
-  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.20/LapticsCapture_v0.4.20.exe",
-  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.20/LapticsUpdater_v0.4.20.exe",
-  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.20/LapticsApply_v0.4.20.exe",
-  "notes": "Imported sessions now carry their lap count, best lap and end time. Until now a session imported from .ibt files was created with zero laps and never updated, so the Community, the pilot page and the session header showed 0 laps and no best lap even though the lap table was full. The best lap of an imported session now ignores off-track laps, exactly like live capture, so the best-lap star always lands on a clean lap.",
-  "notas": "Sessões importadas agora carregam contagem de voltas, melhor volta e horário de fim. Até aqui uma sessão importada de arquivos .ibt nascia com zero voltas e nunca era atualizada, então a Comunidade, a página do piloto e o cabeçalho da sessão mostravam 0 voltas e nenhuma melhor volta, mesmo com a tabela de voltas cheia. A melhor volta de uma sessão importada agora ignora voltas com saída de pista, exatamente como a captura ao vivo, e a estrela de melhor volta sempre cai numa volta limpa."
+  "version": "0.4.21",
+  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.21/LapticsCapture_v0.4.21.exe",
+  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.21/LapticsCapture_v0.4.21.exe",
+  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.21/LapticsUpdater_v0.4.21.exe",
+  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.21/LapticsApply_v0.4.21.exe",
+  "notes": "Imported races keep their first flying lap. In a standing start the car waits on the grid with the lap clock at zero and lap 1 begins when the lights go out, without crossing the line; the .ibt importer treated the wait and the lap as one slice, the two clocks disagreed and lap 1 came in as invalid with no time. The import now starts the lap where iRacing's own clock started, so lap 1 gets its real time and its telemetry no longer carries minutes of standing still.",
+  "notas": "Corridas importadas mantêm a primeira volta lançada. Na largada parada o carro espera no grid com o cronômetro em zero e a volta 1 começa quando a luz apaga, sem cruzar a linha; o importador de .ibt tratava espera e volta como uma fatia só, os dois relógios divergiam e a volta 1 entrava como inválida sem tempo. A importação agora começa a volta onde o cronômetro do iRacing partiu, então a volta 1 recebe o tempo real e a telemetria dela não carrega mais minutos de carro parado."
 }
