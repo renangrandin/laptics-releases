@@ -1,9 +1,9 @@
 {
-  "version": "0.4.22",
-  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.22/LapticsCapture_v0.4.22.exe",
-  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.22/LapticsCapture_v0.4.22.exe",
-  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.22/LapticsUpdater_v0.4.22.exe",
-  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.22/LapticsApply_v0.4.22.exe",
-  "notes": "Imported sessions now carry the track's official sectors. Until now a session imported from .ibt files was created without sectors, so the lap map had no sector navigation and sector deltas were missing. The importer now reads the same SplitTimeInfo block that live capture reads, from the file itself.",
-  "notas": "Sessões importadas agora carregam os setores oficiais da pista. Até aqui uma sessão importada de arquivos .ibt nascia sem setores, então o mapa da volta ficava sem a navegação por setor e os deltas por setor não apareciam. O importador passa a ler o mesmo bloco SplitTimeInfo que a captura ao vivo lê, do próprio arquivo."
+  "version": "0.4.23",
+  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.23/LapticsCapture_v0.4.23.exe",
+  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.23/LapticsCapture_v0.4.23.exe",
+  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.23/LapticsUpdater_v0.4.23.exe",
+  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.23/LapticsApply_v0.4.23.exe",
+  "notes": "Imported sessions are now tagged as iRacing sessions. Until now a session imported from .ibt files had no game set, so it showed a dash instead of the game, the iRacing filter hid it, and tracks that only existed in imported sessions were never registered for the analysis engine, which left them without metrics.",
+  "notas": "Sessões importadas agora vêm marcadas como sessões do iRacing. Até aqui uma sessão importada de arquivos .ibt ficava sem jogo definido, então mostrava um traço no lugar do jogo, o filtro iRacing a escondia, e pistas que só existiam em sessões importadas nunca eram cadastradas para a engine de análise, o que as deixava sem métricas."
 }
