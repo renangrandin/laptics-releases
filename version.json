@@ -1,9 +1,9 @@
 {
-  "version": "0.4.21",
-  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.21/LapticsCapture_v0.4.21.exe",
-  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.21/LapticsCapture_v0.4.21.exe",
-  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.21/LapticsUpdater_v0.4.21.exe",
-  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.21/LapticsApply_v0.4.21.exe",
-  "notes": "Imported races keep their first flying lap. In a standing start the car waits on the grid with the lap clock at zero and lap 1 begins when the lights go out, without crossing the line; the .ibt importer treated the wait and the lap as one slice, the two clocks disagreed and lap 1 came in as invalid with no time. The import now starts the lap where iRacing's own clock started, so lap 1 gets its real time and its telemetry no longer carries minutes of standing still.",
-  "notas": "Corridas importadas mantêm a primeira volta lançada. Na largada parada o carro espera no grid com o cronômetro em zero e a volta 1 começa quando a luz apaga, sem cruzar a linha; o importador de .ibt tratava espera e volta como uma fatia só, os dois relógios divergiam e a volta 1 entrava como inválida sem tempo. A importação agora começa a volta onde o cronômetro do iRacing partiu, então a volta 1 recebe o tempo real e a telemetria dela não carrega mais minutos de carro parado."
+  "version": "0.4.22",
+  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.22/LapticsCapture_v0.4.22.exe",
+  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.22/LapticsCapture_v0.4.22.exe",
+  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.22/LapticsUpdater_v0.4.22.exe",
+  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.22/LapticsApply_v0.4.22.exe",
+  "notes": "Imported sessions now carry the track's official sectors. Until now a session imported from .ibt files was created without sectors, so the lap map had no sector navigation and sector deltas were missing. The importer now reads the same SplitTimeInfo block that live capture reads, from the file itself.",
+  "notas": "Sessões importadas agora carregam os setores oficiais da pista. Até aqui uma sessão importada de arquivos .ibt nascia sem setores, então o mapa da volta ficava sem a navegação por setor e os deltas por setor não apareciam. O importador passa a ler o mesmo bloco SplitTimeInfo que a captura ao vivo lê, do próprio arquivo."
 }
