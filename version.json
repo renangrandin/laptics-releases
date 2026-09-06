@@ -1,9 +1,9 @@
 {
-  "version": "0.4.23",
-  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.23/LapticsCapture_v0.4.23.exe",
-  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.23/LapticsCapture_v0.4.23.exe",
-  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.23/LapticsUpdater_v0.4.23.exe",
-  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.23/LapticsApply_v0.4.23.exe",
-  "notes": "Imported sessions are now tagged as iRacing sessions. Until now a session imported from .ibt files had no game set, so it showed a dash instead of the game, the iRacing filter hid it, and tracks that only existed in imported sessions were never registered for the analysis engine, which left them without metrics.",
-  "notas": "Sessões importadas agora vêm marcadas como sessões do iRacing. Até aqui uma sessão importada de arquivos .ibt ficava sem jogo definido, então mostrava um traço no lugar do jogo, o filtro iRacing a escondia, e pistas que só existiam em sessões importadas nunca eram cadastradas para a engine de análise, o que as deixava sem métricas."
+  "version": "0.4.24",
+  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.24/LapticsCapture_v0.4.24.exe",
+  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.24/LapticsCapture_v0.4.24.exe",
+  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.24/LapticsUpdater_v0.4.24.exe",
+  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.24/LapticsApply_v0.4.24.exe",
+  "notes": "A lap is no longer registered twice. When iRacing was slow to publish its lap counter, the Capture closed the lap on its own and then closed it AGAIN when the counter caught up — a second, timeless entry with the same lap number, which also cut off the first seconds of the following lap's telemetry. The Capture now recognises the lap it already closed.",
+  "notas": "Uma volta não é mais registrada duas vezes. Quando o iRacing demorava a publicar o contador de voltas, o Capture fechava a volta por conta própria e a fechava DE NOVO quando o contador alcançava — um segundo registro, sem tempo e com o mesmo número, que ainda cortava os primeiros segundos da telemetria da volta seguinte. Agora o Capture reconhece a volta que já fechou."
 }
