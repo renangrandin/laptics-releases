@@ -1,9 +1,9 @@
 {
-  "version": "0.4.24",
-  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.24/LapticsCapture_v0.4.24.exe",
-  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.24/LapticsCapture_v0.4.24.exe",
-  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.24/LapticsUpdater_v0.4.24.exe",
-  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.24/LapticsApply_v0.4.24.exe",
-  "notes": "A lap is no longer registered twice. When iRacing was slow to publish its lap counter, the Capture closed the lap on its own and then closed it AGAIN when the counter caught up — a second, timeless entry with the same lap number, which also cut off the first seconds of the following lap's telemetry. The Capture now recognises the lap it already closed.",
-  "notas": "Uma volta não é mais registrada duas vezes. Quando o iRacing demorava a publicar o contador de voltas, o Capture fechava a volta por conta própria e a fechava DE NOVO quando o contador alcançava — um segundo registro, sem tempo e com o mesmo número, que ainda cortava os primeiros segundos da telemetria da volta seguinte. Agora o Capture reconhece a volta que já fechou."
+  "version": "0.4.25",
+  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.25/LapticsCapture_v0.4.25.exe",
+  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.25/LapticsCapture_v0.4.25.exe",
+  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.25/LapticsUpdater_v0.4.25.exe",
+  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.25/LapticsApply_v0.4.25.exe",
+  "notes": "Imported sessions now carry your iRating. The .ibt file always held it — the same DriverInfo the live capture reads — but the importer never copied it across, so every imported session was created without an iRating and your rating badge never showed up in the Community. Offline files are left alone on purpose: with no subsession they only carry the placeholder value 1, which is not a rating.",
+  "notas": "Sessão importada agora traz o seu iRating. O arquivo .ibt sempre teve o dado — é o mesmo DriverInfo que a captura ao vivo lê —, mas o importador não copiava, então toda sessão importada nascia sem iRating e o seu selo de rating nunca aparecia na Comunidade. Arquivo offline continua de fora de propósito: sem subsessão ele só traz o valor placeholder 1, que não é rating."
 }
