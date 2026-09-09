@@ -1,9 +1,9 @@
 {
-  "version": "0.4.25",
-  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.25/LapticsCapture_v0.4.25.exe",
-  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.25/LapticsCapture_v0.4.25.exe",
-  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.25/LapticsUpdater_v0.4.25.exe",
-  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.25/LapticsApply_v0.4.25.exe",
-  "notes": "Imported sessions now carry your iRating. The .ibt file always held it — the same DriverInfo the live capture reads — but the importer never copied it across, so every imported session was created without an iRating and your rating badge never showed up in the Community. Offline files are left alone on purpose: with no subsession they only carry the placeholder value 1, which is not a rating.",
-  "notas": "Sessão importada agora traz o seu iRating. O arquivo .ibt sempre teve o dado — é o mesmo DriverInfo que a captura ao vivo lê —, mas o importador não copiava, então toda sessão importada nascia sem iRating e o seu selo de rating nunca aparecia na Comunidade. Arquivo offline continua de fora de propósito: sem subsessão ele só traz o valor placeholder 1, que não é rating."
+  "version": "0.4.26",
+  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.26/LapticsCapture_v0.4.26.exe",
+  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.26/LapticsCapture_v0.4.26.exe",
+  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.26/LapticsUpdater_v0.4.26.exe",
+  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.26/LapticsApply_v0.4.26.exe",
+  "notes": "Your iRating is now recorded on your pilot profile, not just on the session. The pilot table had a composite key (user_id, category) but the app only cited user_id when saving, so Postgres refused the write before it even started and the error was swallowed by a warning — the table had never received a single row. With it filled in, your last known iRating can show up on sessions that cannot carry one of their own, such as offline sessions, where the sim reports no rating at all.",
+  "notas": "Seu iRating agora fica gravado no seu perfil de piloto, não só na sessão. A tabela do piloto tem chave composta (user_id, category), mas o app citava só user_id ao salvar — o Postgres recusava a escrita antes de começar e o erro era engolido por um aviso, então a tabela nunca recebeu uma linha sequer. Com ela preenchida, o seu último iRating conhecido pode aparecer nas sessões que não conseguem carregar um próprio, como as offline, em que o simulador não informa rating nenhum."
 }
