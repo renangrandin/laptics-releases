@@ -1,9 +1,9 @@
 {
-  "version": "0.4.26",
-  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.26/LapticsCapture_v0.4.26.exe",
-  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.26/LapticsCapture_v0.4.26.exe",
-  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.26/LapticsUpdater_v0.4.26.exe",
-  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.26/LapticsApply_v0.4.26.exe",
-  "notes": "Your iRating is now recorded on your pilot profile, not just on the session. The pilot table had a composite key (user_id, category) but the app only cited user_id when saving, so Postgres refused the write before it even started and the error was swallowed by a warning — the table had never received a single row. With it filled in, your last known iRating can show up on sessions that cannot carry one of their own, such as offline sessions, where the sim reports no rating at all.",
-  "notas": "Seu iRating agora fica gravado no seu perfil de piloto, não só na sessão. A tabela do piloto tem chave composta (user_id, category), mas o app citava só user_id ao salvar — o Postgres recusava a escrita antes de começar e o erro era engolido por um aviso, então a tabela nunca recebeu uma linha sequer. Com ela preenchida, o seu último iRating conhecido pode aparecer nas sessões que não conseguem carregar um próprio, como as offline, em que o simulador não informa rating nenhum."
+  "version": "0.4.27",
+  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.27/LapticsCapture_v0.4.27.exe",
+  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.27/LapticsCapture_v0.4.27.exe",
+  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.27/LapticsUpdater_v0.4.27.exe",
+  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.27/LapticsApply_v0.4.27.exe",
+  "notes": "Sessions imported from .ibt files now arrive with the same context as sessions captured live: weather, force feedback settings, tyre sets, pit service, car setup, track and event. Until now the importer built its payload by hand and quietly left all of that out, so an imported session looked emptier than the same session recorded live. It now reads those through the very same builders the live capture uses, so the two paths cannot drift apart again.",
+  "notas": "As sessões importadas de arquivos .ibt agora chegam com o mesmo contexto das capturadas ao vivo: clima, configuração de force feedback, conjuntos de pneu, serviço de pit, setup do carro, pista e evento. Até agora o importador montava o payload à mão e deixava tudo isso de fora em silêncio, então uma sessão importada parecia mais vazia do que a mesma sessão gravada ao vivo. Ele passa a ler esses dados pelos mesmíssimos construtores da captura ao vivo, de modo que os dois caminhos não possam mais divergir."
 }
