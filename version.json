@@ -1,9 +1,9 @@
 {
-  "version": "0.4.27",
-  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.27/LapticsCapture_v0.4.27.exe",
-  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.27/LapticsCapture_v0.4.27.exe",
-  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.27/LapticsUpdater_v0.4.27.exe",
-  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.27/LapticsApply_v0.4.27.exe",
-  "notes": "Sessions imported from .ibt files now arrive with the same context as sessions captured live: weather, force feedback settings, tyre sets, pit service, car setup, track and event. Until now the importer built its payload by hand and quietly left all of that out, so an imported session looked emptier than the same session recorded live. It now reads those through the very same builders the live capture uses, so the two paths cannot drift apart again.",
-  "notas": "As sessões importadas de arquivos .ibt agora chegam com o mesmo contexto das capturadas ao vivo: clima, configuração de force feedback, conjuntos de pneu, serviço de pit, setup do carro, pista e evento. Até agora o importador montava o payload à mão e deixava tudo isso de fora em silêncio, então uma sessão importada parecia mais vazia do que a mesma sessão gravada ao vivo. Ele passa a ler esses dados pelos mesmíssimos construtores da captura ao vivo, de modo que os dois caminhos não possam mais divergir."
+  "version": "0.4.28",
+  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.28/LapticsCapture_v0.4.28.exe",
+  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.28/LapticsCapture_v0.4.28.exe",
+  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.28/LapticsUpdater_v0.4.28.exe",
+  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.28/LapticsApply_v0.4.28.exe",
+  "notes": "Assetto Corsa Competizione sessions now carry the plain track name. Until now the capture added the text \"track config\", which ACC puts in every session in place of a layout, so \"Spa\" arrived as \"Spa (track config)\". No track in the catalog has that name, and the session page showed no track map.",
+  "notas": "As sessões do Assetto Corsa Competizione passam a chegar com o nome puro da pista. Até agora a captura colava o texto \"track config\", que o ACC põe em toda sessão no lugar de um traçado, e \"Spa\" chegava como \"Spa (track config)\". Nenhuma pista do catálogo tem esse nome, e a página da sessão ficava sem o mapa da pista."
 }
