@@ -1,9 +1,9 @@
 {
-  "version": "0.4.28",
-  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.28/LapticsCapture_v0.4.28.exe",
-  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.28/LapticsCapture_v0.4.28.exe",
-  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.28/LapticsUpdater_v0.4.28.exe",
-  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.28/LapticsApply_v0.4.28.exe",
-  "notes": "Assetto Corsa Competizione sessions now carry the plain track name. Until now the capture added the text \"track config\", which ACC puts in every session in place of a layout, so \"Spa\" arrived as \"Spa (track config)\". No track in the catalog has that name, and the session page showed no track map.",
-  "notas": "As sessões do Assetto Corsa Competizione passam a chegar com o nome puro da pista. Até agora a captura colava o texto \"track config\", que o ACC põe em toda sessão no lugar de um traçado, e \"Spa\" chegava como \"Spa (track config)\". Nenhuma pista do catálogo tem esse nome, e a página da sessão ficava sem o mapa da pista."
+  "version": "0.4.29",
+  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.29/LapticsCapture_v0.4.29.exe",
+  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.29/LapticsCapture_v0.4.29.exe",
+  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.29/LapticsUpdater_v0.4.29.exe",
+  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.29/LapticsApply_v0.4.29.exe",
+  "notes": "Assetto Corsa Competizione laps no longer lose their first seconds. In ACC the lap counter ticks over a moment before the car's track position resets to zero, and the capture read that order as stray frames from the next lap: it dropped everything from the line to 10% of the lap. At Spa that was about 17 seconds, from La Source down to Eau Rouge, missing from the track map and the charts. Laps already recorded keep the gap; new ones arrive whole.",
+  "notas": "As voltas do Assetto Corsa Competizione deixam de perder os primeiros segundos. No ACC o contador de volta vira um instante antes de a posição do carro na pista voltar a zero, e a captura lia essa ordem como frames da volta seguinte: descartava tudo da linha até 10% da volta. Em Spa eram uns 17 segundos, da La Source até a Eau Rouge, ausentes do mapa e dos gráficos. As voltas já gravadas continuam com o buraco; as novas chegam inteiras."
 }
