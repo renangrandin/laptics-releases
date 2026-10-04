@@ -1,9 +1,9 @@
 {
-  "version": "0.4.29",
-  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.29/LapticsCapture_v0.4.29.exe",
-  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.29/LapticsCapture_v0.4.29.exe",
-  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.29/LapticsUpdater_v0.4.29.exe",
-  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.29/LapticsApply_v0.4.29.exe",
-  "notes": "Assetto Corsa Competizione laps no longer lose their first seconds. In ACC the lap counter ticks over a moment before the car's track position resets to zero, and the capture read that order as stray frames from the next lap: it dropped everything from the line to 10% of the lap. At Spa that was about 17 seconds, from La Source down to Eau Rouge, missing from the track map and the charts. Laps already recorded keep the gap; new ones arrive whole.",
-  "notas": "As voltas do Assetto Corsa Competizione deixam de perder os primeiros segundos. No ACC o contador de volta vira um instante antes de a posição do carro na pista voltar a zero, e a captura lia essa ordem como frames da volta seguinte: descartava tudo da linha até 10% da volta. Em Spa eram uns 17 segundos, da La Source até a Eau Rouge, ausentes do mapa e dos gráficos. As voltas já gravadas continuam com o buraco; as novas chegam inteiras."
+  "version": "0.4.30",
+  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.30/LapticsCapture_v0.4.30.exe",
+  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.30/LapticsCapture_v0.4.30.exe",
+  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.30/LapticsUpdater_v0.4.30.exe",
+  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.30/LapticsApply_v0.4.30.exe",
+  "notes": "Sessions no longer arrive without the simulator. When Capture had been open for a while before you went on track, the check that identifies which simulator you are in could fail without a word, and the session was saved with no game at all: the site showed a dash instead of iRacing or Assetto Corsa, and the simulator filter hid the session from your own list. Capture now refreshes the connection before that check, tries once more when the session is created, and writes the failure to the activity log if it still cannot tell. The three sessions already saved that way have been corrected.",
+  "notas": "As sessões deixam de chegar sem o simulador. Com o Capture aberto havia um tempo antes de você entrar na pista, a consulta que identifica em qual simulador você está podia falhar sem avisar, e a sessão era salva sem jogo nenhum: no site aparecia um traço no lugar de iRacing ou Assetto Corsa, e o filtro de simulador escondia a sessão da sua própria lista. Agora o Capture renova a conexão antes dessa consulta, tenta mais uma vez na criação da sessão e registra a falha no log de atividade se ainda assim não souber. As três sessões já salvas assim foram corrigidas."
 }
