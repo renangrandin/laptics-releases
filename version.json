@@ -1,9 +1,9 @@
 {
-  "version": "0.4.30",
-  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.30/LapticsCapture_v0.4.30.exe",
-  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.30/LapticsCapture_v0.4.30.exe",
-  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.30/LapticsUpdater_v0.4.30.exe",
-  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.30/LapticsApply_v0.4.30.exe",
-  "notes": "Sessions no longer arrive without the simulator. When Capture had been open for a while before you went on track, the check that identifies which simulator you are in could fail without a word, and the session was saved with no game at all: the site showed a dash instead of iRacing or Assetto Corsa, and the simulator filter hid the session from your own list. Capture now refreshes the connection before that check, tries once more when the session is created, and writes the failure to the activity log if it still cannot tell. The three sessions already saved that way have been corrected.",
-  "notas": "As sessões deixam de chegar sem o simulador. Com o Capture aberto havia um tempo antes de você entrar na pista, a consulta que identifica em qual simulador você está podia falhar sem avisar, e a sessão era salva sem jogo nenhum: no site aparecia um traço no lugar de iRacing ou Assetto Corsa, e o filtro de simulador escondia a sessão da sua própria lista. Agora o Capture renova a conexão antes dessa consulta, tenta mais uma vez na criação da sessão e registra a falha no log de atividade se ainda assim não souber. As três sessões já salvas assim foram corrigidas."
+  "version": "0.4.31",
+  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.31/LapticsCapture_v0.4.31.exe",
+  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.31/LapticsCapture_v0.4.31.exe",
+  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.31/LapticsUpdater_v0.4.31.exe",
+  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.31/LapticsApply_v0.4.31.exe",
+  "notes": "Capture now recognizes 14 more devices that used to show up as unknown in the session badge and in Stats for Nerds: Logitech G Pro (PlayStation) and RS50, PXN VD10, Simagic P1000 and P2000 Haptic pedals, Moza CRP2, Heusinkveld Sim Pedals Ultimate, Simjack, SimRuito, PRS and Simsonn Plus X pedals, the DS-8X shifter and the G-TEC G29 shifter adapter. Nothing changes in what leaves your PC: still only brand and model.",
+  "notas": "O Capture passa a reconhecer 14 equipamentos que apareciam como desconhecidos no selo da sessão e no Stats for Nerds: Logitech G Pro (PlayStation) e RS50, PXN VD10, pedais Simagic P1000 e P2000 Haptic, Moza CRP2, Heusinkveld Sim Pedals Ultimate, pedais Simjack, SimRuito, PRS e Simsonn Plus X, o shifter DS-8X e o adaptador de câmbio G29 da G-TEC. Nada muda no que sai do seu PC: continua sendo só marca e modelo."
 }
