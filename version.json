@@ -1,9 +1,9 @@
 {
-  "version": "0.4.31",
-  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.31/LapticsCapture_v0.4.31.exe",
-  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.31/LapticsCapture_v0.4.31.exe",
-  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.31/LapticsUpdater_v0.4.31.exe",
-  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.31/LapticsApply_v0.4.31.exe",
-  "notes": "Capture now recognizes 14 more devices that used to show up as unknown in the session badge and in Stats for Nerds: Logitech G Pro (PlayStation) and RS50, PXN VD10, Simagic P1000 and P2000 Haptic pedals, Moza CRP2, Heusinkveld Sim Pedals Ultimate, Simjack, SimRuito, PRS and Simsonn Plus X pedals, the DS-8X shifter and the G-TEC G29 shifter adapter. Nothing changes in what leaves your PC: still only brand and model.",
-  "notas": "O Capture passa a reconhecer 14 equipamentos que apareciam como desconhecidos no selo da sessão e no Stats for Nerds: Logitech G Pro (PlayStation) e RS50, PXN VD10, pedais Simagic P1000 e P2000 Haptic, Moza CRP2, Heusinkveld Sim Pedals Ultimate, pedais Simjack, SimRuito, PRS e Simsonn Plus X, o shifter DS-8X e o adaptador de câmbio G29 da G-TEC. Nada muda no que sai do seu PC: continua sendo só marca e modelo."
+  "version": "0.4.32",
+  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.32/LapticsCapture_v0.4.32.exe",
+  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.32/LapticsCapture_v0.4.32.exe",
+  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.32/LapticsUpdater_v0.4.32.exe",
+  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.32/LapticsApply_v0.4.32.exe",
+  "notes": "Automobilista 2 in alpha: Capture now records your AMS2 laps, with sectors, telemetry, the track map and your car setup for each run. In the game, turn on shared memory under Options > System > Shared Memory = \"Project CARS 2\"; Capture warns you if it is off. On iRacing, your setup name and type are now saved when the session starts.",
+  "notas": "Automobilista 2 em alfa: o Capture passa a gravar suas voltas no AMS2, com setores, telemetria, mapa da pista e o setup do carro em cada run. No jogo, ligue a memória compartilhada em Options > System > Shared Memory = \"Project CARS 2\"; o Capture avisa se ela estiver desligada. No iRacing, o nome e o tipo do setup passam a ser gravados quando a sessão começa."
 }
