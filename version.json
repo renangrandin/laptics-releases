@@ -1,9 +1,9 @@
 {
-  "version": "0.4.32",
-  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.32/LapticsCapture_v0.4.32.exe",
-  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.32/LapticsCapture_v0.4.32.exe",
-  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.32/LapticsUpdater_v0.4.32.exe",
-  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.32/LapticsApply_v0.4.32.exe",
-  "notes": "Automobilista 2 in alpha: Capture now records your AMS2 laps, with sectors, telemetry, the track map and your car setup for each run. In the game, turn on shared memory under Options > System > Shared Memory = \"Project CARS 2\"; Capture warns you if it is off. On iRacing, your setup name and type are now saved when the session starts.",
-  "notas": "Automobilista 2 em alfa: o Capture passa a gravar suas voltas no AMS2, com setores, telemetria, mapa da pista e o setup do carro em cada run. No jogo, ligue a memória compartilhada em Options > System > Shared Memory = \"Project CARS 2\"; o Capture avisa se ela estiver desligada. No iRacing, o nome e o tipo do setup passam a ser gravados quando a sessão começa."
+  "version": "0.4.33",
+  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.33/LapticsCapture_v0.4.33.exe",
+  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.33/LapticsCapture_v0.4.33.exe",
+  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.33/LapticsUpdater_v0.4.33.exe",
+  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.33/LapticsApply_v0.4.33.exe",
+  "notes": "New sign-in: \"Sign in with the browser\". Capture opens laptics.app, you sign in the way you prefer (including Google, coming soon) and Capture gets connected, without saving your password on this PC. Email and password still work under \"Sign in with email and password\". Logging out of Capture no longer logs you out of the website and the phone app. The sign-in screen now follows your language.",
+  "notas": "Login novo: \"Entrar pelo navegador\". O Capture abre o laptics.app, você entra do jeito que preferir (inclusive com o Google, em breve) e o Capture fica conectado, sem guardar sua senha neste PC. E-mail e senha continuam valendo em \"Entrar com e-mail e senha\". Sair do Capture não desconecta mais o site e o app do celular. A tela de login agora segue o seu idioma."
 }
