@@ -1,9 +1,9 @@
 {
-  "version": "0.4.34",
-  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.34/LapticsCapture_v0.4.34.exe",
-  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.34/LapticsCapture_v0.4.34.exe",
-  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.34/LapticsUpdater_v0.4.34.exe",
-  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.34/LapticsApply_v0.4.34.exe",
-  "notes": "Accounts with two-step verification (authenticator app) now sign in to Capture with \"Sign in with the browser\", where laptics.app asks for the code. Email and password sign-in, and the automatic re-sign-in with saved credentials, no longer let these accounts in without the code. Accounts without two-step verification work as before.",
-  "notas": "Contas com verificação em duas etapas (app autenticador) entram no Capture por \"Entrar pelo navegador\", onde o laptics.app pede o código. O login por e-mail e senha, e o re-login automático com a senha salva, não deixam mais essas contas entrarem sem o código. Contas sem a verificação seguem como antes."
+  "version": "0.4.35",
+  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.35/LapticsCapture_v0.4.35.exe",
+  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.35/LapticsCapture_v0.4.35.exe",
+  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.35/LapticsUpdater_v0.4.35.exe",
+  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.35/LapticsApply_v0.4.35.exe",
+  "notes": "When iRacing reloads during a capture (for example, when you leave a session and join again), Capture now reads the new session from scratch. Before, the new session could be saved with another driver's car, or as \"Unknown\", and its laps could be recorded without telemetry.",
+  "notas": "Quando o iRacing recarrega durante a captura (por exemplo, ao sair de uma sessão e entrar de novo), o Capture agora lê a sessão nova do zero. Antes, a sessão nova podia ser salva com o carro de outro piloto, ou como \"Unknown\", e as voltas dela podiam ficar sem telemetria."
 }
