@@ -1,9 +1,9 @@
 {
-  "version": "0.4.36",
-  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.36/LapticsCapture_v0.4.36.exe",
-  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.36/LapticsCapture_v0.4.36.exe",
-  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.36/LapticsUpdater_v0.4.36.exe",
-  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.36/LapticsApply_v0.4.36.exe",
-  "notes": "Capture no longer signs you out or stops recording when it renews your session in the background. Before, a routine renewal could be treated as a failure: a new session could fail to start (\"failed to create session\"), and accounts with two-step verification were signed out in the middle of the day. Also: if the car sits still on track for a long time without finishing the lap, Capture stops buffering after 10 seconds, so its memory no longer grows until it closes by itself; and Capture no longer piles up Windows resources while iRacing is open.",
-  "notas": "O Capture não desloga mais nem para de gravar quando renova a sua sessão em segundo plano. Antes, uma renovação normal podia ser tratada como falha: a sessão nova podia não ser criada (\"failed to create session\"), e contas com verificação em duas etapas eram deslogadas no meio do dia. Também: com o carro parado na pista por muito tempo sem fechar a volta, o Capture para de guardar a telemetria depois de 10 segundos, e a memória não cresce mais até o app fechar sozinho; e o Capture não acumula mais recursos do Windows enquanto o iRacing está aberto."
+  "version": "0.4.37",
+  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.37/LapticsCapture_v0.4.37.exe",
+  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.37/LapticsCapture_v0.4.37.exe",
+  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.37/LapticsUpdater_v0.4.37.exe",
+  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.37/LapticsApply_v0.4.37.exe",
+  "notes": "Capture now keeps your renewed session saved: reopening the app after it has been open for a while no longer asks you to sign in again. If your session is ended somewhere else, Capture stops retrying it over and over and asks you to sign in again. And a brief network drop while Capture renews your session no longer signs you in again with your saved password.",
+  "notas": "O Capture agora guarda a sua sessão renovada: reabrir o app depois de um tempo aberto não pede mais para entrar de novo. Se a sua sessão for encerrada em outro lugar, o Capture para de insistir nela e pede para você entrar de novo. E uma queda rápida da internet na hora de renovar a sessão não faz mais o Capture entrar de novo com a senha guardada."
 }
