@@ -1,9 +1,9 @@
 {
-  "version": "0.4.38",
-  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.38/LapticsCapture_v0.4.38.exe",
-  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.38/LapticsCapture_v0.4.38.exe",
-  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.38/LapticsUpdater_v0.4.38.exe",
-  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.38/LapticsApply_v0.4.38.exe",
-  "notes": "F1 25: Capture now saves the track length with each session. With it, the Laptics AI can place the corners of F1 tracks from the track map, where one exists.",
-  "notas": "F1 25: o Capture agora grava o comprimento da pista em cada sessão. Com ele, a IA do Laptics passa a marcar as curvas das pistas de F1 pelo mapa da pista, quando ele existe."
+  "version": "0.4.39",
+  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.39/LapticsCapture_v0.4.39.exe",
+  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.39/LapticsCapture_v0.4.39.exe",
+  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.39/LapticsUpdater_v0.4.39.exe",
+  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.39/LapticsApply_v0.4.39.exe",
+  "notes": "GT7: a track that was already recognized no longer loses its name to a generic one in the middle of the session, and Capture no longer loses the steering wheel after a pause in the menu. Assetto Corsa: when the game reports an invalid track name, Capture now tells the track apart by its length, so two different tracks no longer share the same corners.",
+  "notas": "GT7: a pista já reconhecida não perde mais o nome para o genérico no meio da sessão, e o Capture não perde mais o volante depois de uma pausa no menu. Assetto Corsa: quando o jogo informa um nome de pista inválido, o Capture passa a separar a pista pelo comprimento, e duas pistas diferentes não dividem mais as mesmas curvas."
 }
