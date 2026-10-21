@@ -1,9 +1,9 @@
 {
-  "version": "0.4.37",
-  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.37/LapticsCapture_v0.4.37.exe",
-  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.37/LapticsCapture_v0.4.37.exe",
-  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.37/LapticsUpdater_v0.4.37.exe",
-  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.37/LapticsApply_v0.4.37.exe",
-  "notes": "Capture now keeps your renewed session saved: reopening the app after it has been open for a while no longer asks you to sign in again. If your session is ended somewhere else, Capture stops retrying it over and over and asks you to sign in again. And a brief network drop while Capture renews your session no longer signs you in again with your saved password.",
-  "notas": "O Capture agora guarda a sua sessão renovada: reabrir o app depois de um tempo aberto não pede mais para entrar de novo. Se a sua sessão for encerrada em outro lugar, o Capture para de insistir nela e pede para você entrar de novo. E uma queda rápida da internet na hora de renovar a sessão não faz mais o Capture entrar de novo com a senha guardada."
+  "version": "0.4.38",
+  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.38/LapticsCapture_v0.4.38.exe",
+  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.38/LapticsCapture_v0.4.38.exe",
+  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.38/LapticsUpdater_v0.4.38.exe",
+  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.38/LapticsApply_v0.4.38.exe",
+  "notes": "F1 25: Capture now saves the track length with each session. With it, the Laptics AI can place the corners of F1 tracks from the track map, where one exists.",
+  "notas": "F1 25: o Capture agora grava o comprimento da pista em cada sessão. Com ele, a IA do Laptics passa a marcar as curvas das pistas de F1 pelo mapa da pista, quando ele existe."
 }
