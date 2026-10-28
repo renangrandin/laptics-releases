@@ -1,9 +1,12 @@
 {
-  "version": "0.4.39",
-  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.39/LapticsCapture_v0.4.39.exe",
-  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.39/LapticsCapture_v0.4.39.exe",
-  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.39/LapticsUpdater_v0.4.39.exe",
-  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.39/LapticsApply_v0.4.39.exe",
-  "notes": "GT7: a track that was already recognized no longer loses its name to a generic one in the middle of the session, and Capture no longer loses the steering wheel after a pause in the menu. Assetto Corsa: when the game reports an invalid track name, Capture now tells the track apart by its length, so two different tracks no longer share the same corners.",
-  "notas": "GT7: a pista já reconhecida não perde mais o nome para o genérico no meio da sessão, e o Capture não perde mais o volante depois de uma pausa no menu. Assetto Corsa: quando o jogo informa um nome de pista inválido, o Capture passa a separar a pista pelo comprimento, e duas pistas diferentes não dividem mais as mesmas curvas."
+  "version": "0.4.40",
+  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.40/LapticsCapture_v0.4.40.exe",
+  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.40/LapticsCapture_v0.4.40.exe",
+  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.40/LapticsUpdater_v0.4.40.exe",
+  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.40/LapticsApply_v0.4.40.exe",
+  "sha256": "03bc3b35ad5dd427af086cfeeb680f380bfb12ca53fb11a50e0a15348d87f284",
+  "updater_sha256": "fe7790cb9a1be1204c7012e231cb9549543bca8f4e1cad2cf7aa8ae725c03d60",
+  "apply_sha256": "6fa2b534226d346c63b502ac9c559fb74fce236b77a0a76a8d74a45f8cd95592",
+  "notes": "New: Tools (BETA). Overlays on top of the game (Radar, Pedals with your reference lap, Racing line) and the Spotter, a voice coach that counts down your braking points and gives one tip at a time, with her text on screen too (voice in Brazilian Portuguese for now). One reference lap for every tool, switched at the line. Second screen mode for consoles or a second monitor. Community laps as a live reference are Laptics PRO; on Free, your reference is your OPT-Lap from the session. Safer updates: every download is verified before it installs.",
+  "notas": "Novidade: Ferramentas (BETA). Overlays por cima do jogo (Radar, Pedais com a sua volta de referência, Traçado) e a Spotter, uma coach de voz que conta a freada e dá uma dica por vez, também com o texto na tela. Uma volta de referência só para todas as ferramentas, trocada na linha. Modo segunda tela para console ou um segundo monitor. Voltas da comunidade como referência em tempo real são Laptics PRO; no Free, sua referência é a OPT-Lap da sessão. Updates mais seguros: todo download é conferido antes de instalar."
 }
