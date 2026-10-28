@@ -1,12 +1,12 @@
 {
-  "version": "0.4.40",
-  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.40/LapticsCapture_v0.4.40.exe",
-  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.40/LapticsCapture_v0.4.40.exe",
-  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.40/LapticsUpdater_v0.4.40.exe",
-  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.40/LapticsApply_v0.4.40.exe",
-  "sha256": "03bc3b35ad5dd427af086cfeeb680f380bfb12ca53fb11a50e0a15348d87f284",
-  "updater_sha256": "fe7790cb9a1be1204c7012e231cb9549543bca8f4e1cad2cf7aa8ae725c03d60",
-  "apply_sha256": "6fa2b534226d346c63b502ac9c559fb74fce236b77a0a76a8d74a45f8cd95592",
-  "notes": "New: Tools (BETA). Overlays on top of the game (Radar, Pedals with your reference lap, Racing line) and the Spotter, a voice coach that counts down your braking points and gives one tip at a time, with her text on screen too (voice in Brazilian Portuguese for now). One reference lap for every tool, switched at the line. Second screen mode for consoles or a second monitor. Community laps as a live reference are Laptics PRO; on Free, your reference is your OPT-Lap from the session. Safer updates: every download is verified before it installs.",
-  "notas": "Novidade: Ferramentas (BETA). Overlays por cima do jogo (Radar, Pedais com a sua volta de referência, Traçado) e a Spotter, uma coach de voz que conta a freada e dá uma dica por vez, também com o texto na tela. Uma volta de referência só para todas as ferramentas, trocada na linha. Modo segunda tela para console ou um segundo monitor. Voltas da comunidade como referência em tempo real são Laptics PRO; no Free, sua referência é a OPT-Lap da sessão. Updates mais seguros: todo download é conferido antes de instalar."
+  "version": "0.4.43",
+  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.43/LapticsCapture_v0.4.43.exe",
+  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.43/LapticsCapture_v0.4.43.exe",
+  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.43/LapticsUpdater_v0.4.43.exe",
+  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.43/LapticsApply_v0.4.43.exe",
+  "sha256": "a506bb51637328745b47e7213c4584603f12c65e4978fc90b0c8f1b102dd7909",
+  "updater_sha256": "2f736468438869877d7a0a3b2a3fa5e5917f0d940951306f713e78cce34dcec0",
+  "apply_sha256": "4184189923034d86a4750667724a6ed9e540ddc186275137a4eac4bbb548828f",
+  "notes": "Tools (BETA), three fixes. (1) The overlays no longer freeze the Capture: with several windows open at a large size, the drawing took the whole app thread; drawing now has a budget and the edit controls are cached. (2) The overlays follow the game's frames: each window wakes right after the next frame is due (with a 1 ms Windows timer), so they no longer skip one in every three frames or lag behind; when the PC can't draw every window every frame they take turns evenly, and the pedal trace keeps every sample. (3) \"Arrange on monitor\" no longer turns second screen mode on by itself (on a single-monitor PC that hid the overlays behind the game) and leaves alone the tools already on that monitor.",
+  "notas": "Ferramentas (BETA), três correções. (1) Os overlays não travam mais o Capture: com várias janelas abertas em tamanho grande, o desenho tomava a thread inteira do app; agora o desenho tem orçamento e os controles da edição ficam em cache. (2) Os overlays acompanham os quadros do jogo: cada janela acorda logo depois da hora do próximo quadro (com um timer de 1 ms do Windows), então não pulam mais um quadro em cada três nem ficam atrasados; quando o PC não dá conta de desenhar todas as janelas em todo quadro, elas se revezam de forma uniforme e o traço dos pedais guarda todas as amostras. (3) \"Organizar no monitor\" não liga mais o modo segunda tela sozinho (num PC de um monitor isso escondia os overlays atrás do jogo) e não mexe nas ferramentas que já estão nesse monitor."
 }
