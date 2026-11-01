@@ -1,12 +1,12 @@
 {
-  "version": "0.4.43",
-  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.43/LapticsCapture_v0.4.43.exe",
-  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.43/LapticsCapture_v0.4.43.exe",
-  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.43/LapticsUpdater_v0.4.43.exe",
-  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.43/LapticsApply_v0.4.43.exe",
-  "sha256": "a506bb51637328745b47e7213c4584603f12c65e4978fc90b0c8f1b102dd7909",
-  "updater_sha256": "2f736468438869877d7a0a3b2a3fa5e5917f0d940951306f713e78cce34dcec0",
-  "apply_sha256": "4184189923034d86a4750667724a6ed9e540ddc186275137a4eac4bbb548828f",
-  "notes": "Tools (BETA), three fixes. (1) The overlays no longer freeze the Capture: with several windows open at a large size, the drawing took the whole app thread; drawing now has a budget and the edit controls are cached. (2) The overlays follow the game's frames: each window wakes right after the next frame is due (with a 1 ms Windows timer), so they no longer skip one in every three frames or lag behind; when the PC can't draw every window every frame they take turns evenly, and the pedal trace keeps every sample. (3) \"Arrange on monitor\" no longer turns second screen mode on by itself (on a single-monitor PC that hid the overlays behind the game) and leaves alone the tools already on that monitor.",
-  "notas": "Ferramentas (BETA), três correções. (1) Os overlays não travam mais o Capture: com várias janelas abertas em tamanho grande, o desenho tomava a thread inteira do app; agora o desenho tem orçamento e os controles da edição ficam em cache. (2) Os overlays acompanham os quadros do jogo: cada janela acorda logo depois da hora do próximo quadro (com um timer de 1 ms do Windows), então não pulam mais um quadro em cada três nem ficam atrasados; quando o PC não dá conta de desenhar todas as janelas em todo quadro, elas se revezam de forma uniforme e o traço dos pedais guarda todas as amostras. (3) \"Organizar no monitor\" não liga mais o modo segunda tela sozinho (num PC de um monitor isso escondia os overlays atrás do jogo) e não mexe nas ferramentas que já estão nesse monitor."
+  "version": "0.4.44",
+  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.44/LapticsCapture_v0.4.44.exe",
+  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.44/LapticsCapture_v0.4.44.exe",
+  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.44/LapticsUpdater_v0.4.44.exe",
+  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.4.44/LapticsApply_v0.4.44.exe",
+  "sha256": "9209fd2cce4c9217ac600af158f416ab8eb015c2f74f329a40f1c0e6e5c0f527",
+  "updater_sha256": "9dcd7aef96e03acc948a2772b68e1e484556f4261be68e5219e3326f4ce86a5e",
+  "apply_sha256": "f9068dffd2346debe5f289139f336b96063297f29a0eb85a33c02157c14590dd",
+  "notes": "The Capture now looks less like an unknown program to antivirus software: the app files carry Laptics' name, product and version, are no longer marked for compression, and are built with their own startup loader. Nothing changes in how the Capture works.",
+  "notas": "O Capture fica com menos cara de programa desconhecido para os antivírus: os arquivos do app levam o nome da Laptics, o produto e a versão, deixam de pedir compactação e passam a ser montados com um inicializador próprio. Nada muda no funcionamento do Capture."
 }
