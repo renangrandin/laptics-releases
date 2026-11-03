@@ -1,12 +1,12 @@
 {
-  "version": "0.5.1",
-  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.5.1/LapticsCapture_v0.5.1.exe",
-  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.5.1/LapticsCapture_v0.5.1.exe",
-  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.5.1/LapticsUpdater_v0.5.1.exe",
-  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.5.1/LapticsApply_v0.5.1.exe",
-  "sha256": "4064d5e48f7471ddedd98d24e26331bdb44efad820c34217d0e15e8e24261b67",
-  "updater_sha256": "09d6e8c9d150d2ab9cdb087b7132efd45f60173f9349cac62d84b1c43bc2b9fc",
-  "apply_sha256": "a79ca80af47c870ea541b2e6e0e769989040ca7dc749e42f261405cb2e388c9b",
-  "notes": "Assetto Corsa gets better. Mod tracks now get a track map, numbered corners and the game's own sectors after your first session there: the Capture reads the track's name, outline and timing lines from the track folder in your game and sends only that, never the track files themselves. Track and car names show as the game shows them instead of the folder name, such as \"ks_mazda_mx5_cup\". Kunos tracks now have sectors from the first lap, and Assetto Corsa laps carry the same channels as the other sims, including tyre pressure and pit lane. Each session also records the track conditions: air and track temperature, wind and track grip.",
-  "notas": "O Assetto Corsa fica melhor. Pista de mod passa a ter mapa, curvas numeradas e os setores do próprio jogo depois da sua primeira sessão nela: o Capture lê o nome, o traçado e as linhas de cronometragem na pasta da pista no seu jogo e manda só isso, nunca os arquivos da pista. Os nomes da pista e do carro aparecem como o jogo mostra em vez do nome da pasta, como \"ks_mazda_mx5_cup\". As pistas da Kunos têm setores desde a primeira volta, e as voltas do Assetto Corsa trazem os mesmos canais dos outros simuladores, pressão dos pneus e box inclusive. Cada sessão também grava as condições da pista: temperatura do ar e do asfalto, vento e aderência."
+  "version": "0.5.2",
+  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.5.2/LapticsCapture_v0.5.2.exe",
+  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.5.2/LapticsCapture_v0.5.2.exe",
+  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.5.2/LapticsUpdater_v0.5.2.exe",
+  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.5.2/LapticsApply_v0.5.2.exe",
+  "sha256": "a3dab7af52e5bae797902a0a9fa85628f59275d42f0e7f193f4094dc48ae4d76",
+  "updater_sha256": "3ebe561ca6d68f72a865c2e345a0cb4c44358fe35c37cd59fa460e24593d6ef6",
+  "apply_sha256": "584142a127bc98764183f87d071f4ade410ef03147bac1397a55222f6e46056d",
+  "notes": "Wind direction in Assetto Corsa now records the right side. Before, the Capture saved an east wind as coming from the west and vice versa, because the game turns its wind angle the other way round. Sessions recorded from now on show the wind where it really comes from.",
+  "notas": "A direção do vento no Assetto Corsa passa a ser gravada do lado certo. Antes, o Capture gravava o vento do leste como se viesse do oeste, e vice-versa, porque o jogo gira o ângulo do vento no sentido contrário. As sessões gravadas daqui em diante mostram o vento de onde ele vem de verdade."
 }
