@@ -1,12 +1,12 @@
 {
-  "version": "0.5.2",
-  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.5.2/LapticsCapture_v0.5.2.exe",
-  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.5.2/LapticsCapture_v0.5.2.exe",
-  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.5.2/LapticsUpdater_v0.5.2.exe",
-  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.5.2/LapticsApply_v0.5.2.exe",
-  "sha256": "a3dab7af52e5bae797902a0a9fa85628f59275d42f0e7f193f4094dc48ae4d76",
-  "updater_sha256": "3ebe561ca6d68f72a865c2e345a0cb4c44358fe35c37cd59fa460e24593d6ef6",
-  "apply_sha256": "584142a127bc98764183f87d071f4ade410ef03147bac1397a55222f6e46056d",
-  "notes": "Wind direction in Assetto Corsa now records the right side. Before, the Capture saved an east wind as coming from the west and vice versa, because the game turns its wind angle the other way round. Sessions recorded from now on show the wind where it really comes from.",
-  "notas": "A direção do vento no Assetto Corsa passa a ser gravada do lado certo. Antes, o Capture gravava o vento do leste como se viesse do oeste, e vice-versa, porque o jogo gira o ângulo do vento no sentido contrário. As sessões gravadas daqui em diante mostram o vento de onde ele vem de verdade."
+  "version": "0.5.3",
+  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.5.3/LapticsCapture_v0.5.3.exe",
+  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.5.3/LapticsCapture_v0.5.3.exe",
+  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.5.3/LapticsUpdater_v0.5.3.exe",
+  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.5.3/LapticsApply_v0.5.3.exe",
+  "sha256": "e98012ec240d616cf2ea588977e7203118e4cce11dcf0937d1045ff69ab9ab12",
+  "updater_sha256": "b64324e892ee132028eea4422a981810d47f47d227d0a31dc3b7a4acdd25c00f",
+  "apply_sha256": "5155950a05eafb401ebba34ac9d7f1c6b967d38d900815ed5454fb1172e64c40",
+  "notes": "In Assetto Corsa, a lap is only marked off-track when 3 or more tyres leave the track, as in the game itself. Before, 2 tyres were enough, so running over a kerb took most laps out of the best-lap ranking, and on some mod tracks every lap.",
+  "notas": "No Assetto Corsa, a volta só é marcada como saída de pista quando 3 ou mais pneus saem da pista, como no próprio jogo. Antes bastavam 2, então passar na zebra tirava a maior parte das voltas da disputa de melhor volta, e em algumas pistas de mod todas elas."
 }
