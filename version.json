@@ -1,12 +1,12 @@
 {
-  "version": "0.5.7",
-  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.5.7/LapticsCapture_v0.5.7.exe",
-  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.5.7/LapticsCapture_v0.5.7.exe",
-  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.5.7/LapticsUpdater_v0.5.7.exe",
-  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.5.7/LapticsApply_v0.5.7.exe",
-  "sha256": "50667b97e40cc06365ad82e1758d245ab2efda116ccf9659c5f1d932058abc93",
-  "updater_sha256": "77e67db668e2f833576678cef429234465179e5db497c3eb4fb70bd849ee82f4",
-  "apply_sha256": "f8a3f1d5e053054cffeec43c6a0b15c04d134c5616c037fa6f54de9af086d8ca",
-  "notes": "F1: a lap where you cut the track is recorded as invalid again. The game clears its invalid-lap flag at the line, and the Capture was reading it right after that, so cut laps came out valid (most visible in Time Trial). Laps recorded before this version stay as they were.",
-  "notas": "F1: a volta em que você corta a pista volta a sair inválida. O jogo zera a marca de volta inválida na linha, e o Capture lia a marca logo depois disso, então as voltas cortadas saíam válidas (mais visível na Tomada de Tempo). As voltas gravadas antes desta versão ficam como estão."
+  "version": "0.5.8",
+  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.5.8/LapticsCapture_v0.5.8.exe",
+  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.5.8/LapticsCapture_v0.5.8.exe",
+  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.5.8/LapticsUpdater_v0.5.8.exe",
+  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.5.8/LapticsApply_v0.5.8.exe",
+  "sha256": "dcabe54c0f5efd379b3a5011593bd4d1a73b5583cdf138545de190ab382f809d",
+  "updater_sha256": "007df15a24e0c57781dee0bff51ef3901322247fa86beb379cc1d19297bc92ec",
+  "apply_sha256": "9039a5dccd254a4f08eae0b3c24488d6a68ed9248123cd83d0e9dd896a87e44a",
+  "notes": "The Capture now speaks your language everywhere: Settings (General, Equipment, GT7 and F1), the Tools previews, the pedal overlay, the import window and the activity log follow the language you pick, and the login screen has a language selector. The 'Change lap' window no longer opens blank, switching language redraws the window cleanly, the import window uses the Laptics colors, the waiting message lists AMS2 and LMU, and F1 is only shown as detected after real F1 traffic (no more false detection).",
+  "notas": "O Capture agora fala o seu idioma em tudo: Configurações (Geral, Equipamento, GT7 e F1), as prévias das Ferramentas, o overlay de pedais, a janela de importação e o log de atividade seguem o idioma escolhido, e a tela de login ganhou um seletor de idioma. A janela 'Trocar volta' não abre mais em branco, a troca de idioma redesenha a janela sem falhas, a importação usa as cores do Laptics, a mensagem de espera cita o AMS2 e o LMU, e o F1 só aparece como detectado com tráfego de F1 de verdade (sem detecção falsa)."
 }
