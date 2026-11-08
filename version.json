@@ -1,12 +1,12 @@
 {
-  "version": "0.5.6",
-  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.5.6/LapticsCapture_v0.5.6.exe",
-  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.5.6/LapticsCapture_v0.5.6.exe",
-  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.5.6/LapticsUpdater_v0.5.6.exe",
-  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.5.6/LapticsApply_v0.5.6.exe",
-  "sha256": "5178da4a51306b0f8dcb8f8dbd630970e2d1eb978e0a1227091803122767af8d",
-  "updater_sha256": "fb7b964e118bd2f7915a491f852717967ebb136adbe2cca858439a9289e25c09",
-  "apply_sha256": "d8e613e8dc7b1622637cc67aba0403672762a8ba43b51549e9eadea24fa60718",
-  "notes": "GT7 no longer loses laps when the PC or the phone stalls for a few seconds: a gap in the reading was taken as a trip to the pit box, and two clean laps came out as in-lap and out-lap without a time. Now the lap keeps the game's own time, and a pit stop in the middle of a lap only marks that lap as pit. With the GT7 handed over to the Laptics phone app, the PC stays as a backup: it records the same laps and, if the phone leaves the network, takes over the session and uploads what the phone had not sent. The PC also says when the phone is the one capturing GT7. Le Mans Ultimate: the qualifying and race after a practice session no longer lose the track map (the session was named like \"Monza (5781 m)\" while the game was still loading). F1: a session of F1 25 with the telemetry format set to 2024 is recorded as F1 25, not F1 24.",
-  "notas": "O GT7 não perde mais voltas quando o PC ou o celular trava por alguns segundos: o buraco na leitura era tomado por ida ao box, e duas voltas limpas saíam como volta de entrada e de saída, sem tempo. Agora a volta fica com o tempo do próprio jogo, e o box no meio de uma volta só marca aquela volta como pit. Com o GT7 entregue ao app do Laptics no celular, o PC fica de reserva: grava as mesmas voltas e, se o celular sair da rede, assume a sessão e sobe o que o celular não tinha enviado. O PC também avisa quando é o celular que está capturando o GT7. Le Mans Ultimate: a quali e a corrida depois de um treino não perdem mais o mapa da pista (a sessão ficava com um nome como \"Monza (5781 m)\" enquanto o jogo ainda carregava). F1: a sessão do F1 25 com o formato da telemetria em 2024 é gravada como F1 25, não como F1 24."
+  "version": "0.5.7",
+  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.5.7/LapticsCapture_v0.5.7.exe",
+  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.5.7/LapticsCapture_v0.5.7.exe",
+  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.5.7/LapticsUpdater_v0.5.7.exe",
+  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.5.7/LapticsApply_v0.5.7.exe",
+  "sha256": "50667b97e40cc06365ad82e1758d245ab2efda116ccf9659c5f1d932058abc93",
+  "updater_sha256": "77e67db668e2f833576678cef429234465179e5db497c3eb4fb70bd849ee82f4",
+  "apply_sha256": "f8a3f1d5e053054cffeec43c6a0b15c04d134c5616c037fa6f54de9af086d8ca",
+  "notes": "F1: a lap where you cut the track is recorded as invalid again. The game clears its invalid-lap flag at the line, and the Capture was reading it right after that, so cut laps came out valid (most visible in Time Trial). Laps recorded before this version stay as they were.",
+  "notas": "F1: a volta em que você corta a pista volta a sair inválida. O jogo zera a marca de volta inválida na linha, e o Capture lia a marca logo depois disso, então as voltas cortadas saíam válidas (mais visível na Tomada de Tempo). As voltas gravadas antes desta versão ficam como estão."
 }
