@@ -1,12 +1,12 @@
 {
-  "version": "0.5.8",
-  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.5.8/LapticsCapture_v0.5.8.exe",
-  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.5.8/LapticsCapture_v0.5.8.exe",
-  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.5.8/LapticsUpdater_v0.5.8.exe",
-  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.5.8/LapticsApply_v0.5.8.exe",
-  "sha256": "dcabe54c0f5efd379b3a5011593bd4d1a73b5583cdf138545de190ab382f809d",
-  "updater_sha256": "007df15a24e0c57781dee0bff51ef3901322247fa86beb379cc1d19297bc92ec",
-  "apply_sha256": "9039a5dccd254a4f08eae0b3c24488d6a68ed9248123cd83d0e9dd896a87e44a",
-  "notes": "The Capture now speaks your language everywhere: Settings (General, Equipment, GT7 and F1), the Tools previews, the pedal overlay, the import window and the activity log follow the language you pick, and the login screen has a language selector. The 'Change lap' window no longer opens blank, switching language redraws the window cleanly, the import window uses the Laptics colors, the waiting message lists AMS2 and LMU, and F1 is only shown as detected after real F1 traffic (no more false detection).",
-  "notas": "O Capture agora fala o seu idioma em tudo: Configurações (Geral, Equipamento, GT7 e F1), as prévias das Ferramentas, o overlay de pedais, a janela de importação e o log de atividade seguem o idioma escolhido, e a tela de login ganhou um seletor de idioma. A janela 'Trocar volta' não abre mais em branco, a troca de idioma redesenha a janela sem falhas, a importação usa as cores do Laptics, a mensagem de espera cita o AMS2 e o LMU, e o F1 só aparece como detectado com tráfego de F1 de verdade (sem detecção falsa)."
+  "version": "0.5.9",
+  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.5.9/LapticsCapture_v0.5.9.exe",
+  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.5.9/LapticsCapture_v0.5.9.exe",
+  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.5.9/LapticsUpdater_v0.5.9.exe",
+  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.5.9/LapticsApply_v0.5.9.exe",
+  "sha256": "cb306d2714ad84af8db36556a07fb007fdadcf31762e20c7c2132b5d9eb7a33e",
+  "updater_sha256": "89dd5953ccaecba2033547781763611cf5a1358120ac95bd86597bf164b860d0",
+  "apply_sha256": "6002ce7cb2e16ba634c912db9b2c9d90fd1cb14baa8bf043677a52a0174ecb3d",
+  "notes": "ACC: the Capture now records the game's sector (the sec channel) and learns where each sector starts on the track, so ACC sessions get sector splits on the site. The ACC tracks also got official maps with turn numbers and names.",
+  "notas": "ACC: o Capture agora grava o setor do jogo (canal sec) e aprende onde cada setor começa na pista, e as sessões do ACC passam a ter os setores no site. As pistas do ACC também ganharam mapa oficial com o número e o nome das curvas."
 }
