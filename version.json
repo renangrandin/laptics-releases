@@ -1,12 +1,12 @@
 {
-  "version": "0.5.9",
-  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.5.9/LapticsCapture_v0.5.9.exe",
-  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.5.9/LapticsCapture_v0.5.9.exe",
-  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.5.9/LapticsUpdater_v0.5.9.exe",
-  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.5.9/LapticsApply_v0.5.9.exe",
-  "sha256": "cb306d2714ad84af8db36556a07fb007fdadcf31762e20c7c2132b5d9eb7a33e",
-  "updater_sha256": "89dd5953ccaecba2033547781763611cf5a1358120ac95bd86597bf164b860d0",
-  "apply_sha256": "6002ce7cb2e16ba634c912db9b2c9d90fd1cb14baa8bf043677a52a0174ecb3d",
-  "notes": "ACC: the Capture now records the game's sector (the sec channel) and learns where each sector starts on the track, so ACC sessions get sector splits on the site. The ACC tracks also got official maps with turn numbers and names.",
-  "notas": "ACC: o Capture agora grava o setor do jogo (canal sec) e aprende onde cada setor começa na pista, e as sessões do ACC passam a ter os setores no site. As pistas do ACC também ganharam mapa oficial com o número e o nome das curvas."
+  "version": "0.5.11",
+  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.5.11/LapticsCapture_v0.5.11.exe",
+  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.5.11/LapticsCapture_v0.5.11.exe",
+  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.5.11/LapticsUpdater_v0.5.11.exe",
+  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.5.11/LapticsApply_v0.5.11.exe",
+  "sha256": "8291842d5da9f8634148f626cead584a758e62b19cd756ac2c021141f4d1490d",
+  "updater_sha256": "996a77e1af60e800d4153bbf7b890f4963c98169012bc5da6267db88c9730ebd",
+  "apply_sha256": "9ff2f1b3b135f7ee118ca6171eb982b6a614d9f47923e6ae040b94bca89bb8f2",
+  "notes": "Tools: new \"Game graphics settings\" card. Laptics checks your games (ACC, iRacing, AC with CSP, AMS2, LMU) and, in one click, switches them to borderless window on the monitor you choose, so the overlays show on top of the game without lag. The game must be closed; a backup is made first and Undo restores everything. F1 23/24/25: a big step up in F1 capture. Laps no longer lose their first metres, out laps and in laps are marked by the game, flashbacks and Time Trial lap restarts no longer break the lap (a lap with a flashback is marked invalid, keeping its time and telemetry), going off track with 4 wheels or getting a track limits warning marks the lap off-track, and a new game session starts a new session in Laptics. Sectors now come from the game (no more sectors from another track). The F1 now records in the common channel format, with the cars around you, setup per run, final result, weather forecast, assists and online/offline. The 2026 UDP format (2026 season of F1 25, with Madrid, Audi and Cadillac) is accepted too. Tip: set the game's UDP Send Rate to 60 Hz for full detail.",
+  "notas": "Ferramentas: novo cartão \"Configuração gráfica dos jogos\". O Laptics confere seus jogos (ACC, iRacing, AC com CSP, AMS2, LMU) e, num clique, deixa cada um em janela sem bordas no monitor que você escolher, para as ferramentas aparecerem por cima do jogo sem lag. O jogo precisa estar fechado; antes é feita uma cópia, e o Desfazer volta tudo. F1 23/24/25: um salto na captura do F1. As voltas não perdem mais os primeiros metros, a volta de saída e a de entrada do box vêm marcadas pelo jogo, o flashback e o reinício de volta do Contrarrelógio não quebram mais a volta (a volta com flashback sai inválida, com o tempo e a telemetria), sair da pista com as 4 rodas ou levar aviso de limite de pista marca a volta como off-track, e uma sessão nova no jogo abre uma sessão nova no Laptics. Os setores agora vêm do jogo (nada de setores de outra pista). O F1 passa a gravar no formato comum de canais, com os carros ao seu redor, o acerto de cada stint, o resultado final, a previsão do tempo, os assistentes e se a sessão é online. O formato UDP 2026 (a temporada 2026 do F1 25, com Madri, Audi e Cadillac) também é aceito. Dica: deixe o UDP Send Rate do jogo em 60 Hz para o detalhe completo."
 }
