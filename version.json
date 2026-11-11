@@ -1,12 +1,12 @@
 {
-  "version": "0.5.11",
-  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.5.11/LapticsCapture_v0.5.11.exe",
-  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.5.11/LapticsCapture_v0.5.11.exe",
-  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.5.11/LapticsUpdater_v0.5.11.exe",
-  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.5.11/LapticsApply_v0.5.11.exe",
-  "sha256": "8291842d5da9f8634148f626cead584a758e62b19cd756ac2c021141f4d1490d",
-  "updater_sha256": "996a77e1af60e800d4153bbf7b890f4963c98169012bc5da6267db88c9730ebd",
-  "apply_sha256": "9ff2f1b3b135f7ee118ca6171eb982b6a614d9f47923e6ae040b94bca89bb8f2",
-  "notes": "Tools: new \"Game graphics settings\" card. Laptics checks your games (ACC, iRacing, AC with CSP, AMS2, LMU) and, in one click, switches them to borderless window on the monitor you choose, so the overlays show on top of the game without lag. The game must be closed; a backup is made first and Undo restores everything. F1 23/24/25: a big step up in F1 capture. Laps no longer lose their first metres, out laps and in laps are marked by the game, flashbacks and Time Trial lap restarts no longer break the lap (a lap with a flashback is marked invalid, keeping its time and telemetry), going off track with 4 wheels or getting a track limits warning marks the lap off-track, and a new game session starts a new session in Laptics. Sectors now come from the game (no more sectors from another track). The F1 now records in the common channel format, with the cars around you, setup per run, final result, weather forecast, assists and online/offline. The 2026 UDP format (2026 season of F1 25, with Madrid, Audi and Cadillac) is accepted too. Tip: set the game's UDP Send Rate to 60 Hz for full detail.",
-  "notas": "Ferramentas: novo cartão \"Configuração gráfica dos jogos\". O Laptics confere seus jogos (ACC, iRacing, AC com CSP, AMS2, LMU) e, num clique, deixa cada um em janela sem bordas no monitor que você escolher, para as ferramentas aparecerem por cima do jogo sem lag. O jogo precisa estar fechado; antes é feita uma cópia, e o Desfazer volta tudo. F1 23/24/25: um salto na captura do F1. As voltas não perdem mais os primeiros metros, a volta de saída e a de entrada do box vêm marcadas pelo jogo, o flashback e o reinício de volta do Contrarrelógio não quebram mais a volta (a volta com flashback sai inválida, com o tempo e a telemetria), sair da pista com as 4 rodas ou levar aviso de limite de pista marca a volta como off-track, e uma sessão nova no jogo abre uma sessão nova no Laptics. Os setores agora vêm do jogo (nada de setores de outra pista). O F1 passa a gravar no formato comum de canais, com os carros ao seu redor, o acerto de cada stint, o resultado final, a previsão do tempo, os assistentes e se a sessão é online. O formato UDP 2026 (a temporada 2026 do F1 25, com Madri, Audi e Cadillac) também é aceito. Dica: deixe o UDP Send Rate do jogo em 60 Hz para o detalhe completo."
+  "version": "0.5.12",
+  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.5.12/LapticsCapture_v0.5.12.exe",
+  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.5.12/LapticsCapture_v0.5.12.exe",
+  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.5.12/LapticsUpdater_v0.5.12.exe",
+  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.5.12/LapticsApply_v0.5.12.exe",
+  "sha256": "9f452a2742725abe46fce6c3893fa8692ed1c350fe0d7a9beb18caa4546a3f36",
+  "updater_sha256": "71cfb173b4ced4d250c437d38797e0ce5bfa894b3464b86d9aa664ae80acae3b",
+  "apply_sha256": "00282925bc5fae7ac05ead1b6049360c651608268f889d69ab91922051bd1fa1",
+  "notes": "Activity log: when the server does not answer (like the 522 of 11/11), the log now shows a one-line message with the error code instead of the server's whole HTML error page. Laps keep waiting in the local queue and upload on their own when the server is back.",
+  "notas": "Registro de atividade: quando o servidor não responde (como o erro 522 de 11/11), o registro passa a mostrar uma linha com o código do erro, e não mais a página HTML inteira de erro do servidor. As voltas continuam na fila local e sobem sozinhas quando o servidor volta."
 }
