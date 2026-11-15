@@ -1,12 +1,12 @@
 {
-  "version": "0.5.12",
-  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.5.12/LapticsCapture_v0.5.12.exe",
-  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.5.12/LapticsCapture_v0.5.12.exe",
-  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.5.12/LapticsUpdater_v0.5.12.exe",
-  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.5.12/LapticsApply_v0.5.12.exe",
-  "sha256": "9f452a2742725abe46fce6c3893fa8692ed1c350fe0d7a9beb18caa4546a3f36",
-  "updater_sha256": "71cfb173b4ced4d250c437d38797e0ce5bfa894b3464b86d9aa664ae80acae3b",
-  "apply_sha256": "00282925bc5fae7ac05ead1b6049360c651608268f889d69ab91922051bd1fa1",
-  "notes": "Activity log: when the server does not answer (like the 522 of 11/11), the log now shows a one-line message with the error code instead of the server's whole HTML error page. Laps keep waiting in the local queue and upload on their own when the server is back.",
-  "notas": "Registro de atividade: quando o servidor não responde (como o erro 522 de 11/11), o registro passa a mostrar uma linha com o código do erro, e não mais a página HTML inteira de erro do servidor. As voltas continuam na fila local e sobem sozinhas quando o servidor volta."
+  "version": "0.5.13",
+  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.5.13/LapticsCapture_v0.5.13.exe",
+  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.5.13/LapticsCapture_v0.5.13.exe",
+  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.5.13/LapticsUpdater_v0.5.13.exe",
+  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.5.13/LapticsApply_v0.5.13.exe",
+  "sha256": "d507d23ad7cdda2c611ad7056925fd67e9e581297e6e2548548bcedee9ad7b54",
+  "updater_sha256": "a4dfbbc3b84a1b95e73d4b72baa34feba026ee985e864febdddd885ae0cbb328",
+  "apply_sha256": "db6cb500dafc188ae3f0bdb853ef58f64e227a061ea77e9fce267827f2a649ad",
+  "notes": "Tools: at the end of each session, Capture now records which tools appeared on screen (Radar, Pedals, Racing line, Spotter) and which kind of reference lap was used, to help us understand how the tools are used. No usage time is recorded, and nothing changes on screen. If the server is down, the record waits in the local queue and uploads on its own later.",
+  "notas": "Ferramentas: no fim de cada sessão, o Capture passa a registrar quais ferramentas apareceram na tela (Radar, Pedais, Traçado, Spotter) e que tipo de volta de referência foi usado, para entendermos como as ferramentas são usadas. Não registra tempo de uso e nada muda na tela. Com o servidor fora, o registro espera na fila local e sobe sozinho depois."
 }
