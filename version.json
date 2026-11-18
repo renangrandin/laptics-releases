@@ -1,12 +1,12 @@
 {
-  "version": "0.5.13",
-  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.5.13/LapticsCapture_v0.5.13.exe",
-  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.5.13/LapticsCapture_v0.5.13.exe",
-  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.5.13/LapticsUpdater_v0.5.13.exe",
-  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.5.13/LapticsApply_v0.5.13.exe",
-  "sha256": "d507d23ad7cdda2c611ad7056925fd67e9e581297e6e2548548bcedee9ad7b54",
-  "updater_sha256": "a4dfbbc3b84a1b95e73d4b72baa34feba026ee985e864febdddd885ae0cbb328",
-  "apply_sha256": "db6cb500dafc188ae3f0bdb853ef58f64e227a061ea77e9fce267827f2a649ad",
-  "notes": "Tools: at the end of each session, Capture now records which tools appeared on screen (Radar, Pedals, Racing line, Spotter) and which kind of reference lap was used, to help us understand how the tools are used. No usage time is recorded, and nothing changes on screen. If the server is down, the record waits in the local queue and uploads on its own later.",
-  "notas": "Ferramentas: no fim de cada sessão, o Capture passa a registrar quais ferramentas apareceram na tela (Radar, Pedais, Traçado, Spotter) e que tipo de volta de referência foi usado, para entendermos como as ferramentas são usadas. Não registra tempo de uso e nada muda na tela. Com o servidor fora, o registro espera na fila local e sobe sozinho depois."
+  "version": "0.5.14",
+  "url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.5.14/LapticsCapture_v0.5.14.exe",
+  "download_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.5.14/LapticsCapture_v0.5.14.exe",
+  "updater_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.5.14/LapticsUpdater_v0.5.14.exe",
+  "apply_url": "https://github.com/renangrandin/laptics-releases/releases/download/v0.5.14/LapticsApply_v0.5.14.exe",
+  "sha256": "abec3d5cb87acbec2b52a1d4f03f8469a364cb1363718be3df2d6bef3a8a1b9a",
+  "updater_sha256": "dff15c1fb93a82d95a898f1202af981c8b7de30d0cb43ad09670d8f440c2433c",
+  "apply_sha256": "92102254f275b49ccd14b3c9d6a76f898e2c70c57915e6e19e7aad660b430112",
+  "notes": "ACC: when there is no previous lap, the game reports the maximum possible value as the last lap time, and Capture read it as a lap of almost 600 hours. Lap 1 could be recorded as valid with that time and use up the free plan's minutes. Lap 1 without a time from the game is now recorded as an out lap, with no time and no minutes used.",
+  "notas": "ACC: sem volta anterior, o jogo informa o maior valor possível como tempo da última volta, e o Capture lia isso como uma volta de quase 600 horas. A volta 1 podia ficar válida com esse tempo e gastar os minutos do plano Free. Agora a volta 1 sem tempo do jogo sai como volta de saída, sem tempo e sem gastar minutos."
 }
